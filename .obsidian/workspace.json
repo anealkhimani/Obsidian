@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f20c928a17292c42",
+        "id": "1d8e81cbe6a7726e",
         "type": "tabs",
         "children": [
           {
-            "id": "ff06dbc4b310f4b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "499dc6b6aa4578a0",
+            "id": "dfa41ce501d48bd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "499dc6b6aa4578a0",
+  "active": "dfa41ce501d48bd7",
   "lastOpenFiles": [
     "README.md",
     "Testing Git Plugin.md"
