@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing Git Plugin.md",
+                "file": "Daily/2024-02-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing Git Plugin.md",
+                "file": "Daily/2024-02-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing Git Plugin.md",
+                "file": "Daily/2024-02-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing Git Plugin.md"
+                "file": "Daily/2024-02-09.md"
               }
             }
+          },
+          {
+            "id": "15ceb89b04e0a34d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +156,9 @@
   },
   "active": "dfa41ce501d48bd7",
   "lastOpenFiles": [
-    "README.md",
-    "Testing Git Plugin.md"
+    "Testing Git Plugin.md",
+    "Daily/2024-02-09.md",
+    "Daily",
+    "README.md"
   ]
 }
