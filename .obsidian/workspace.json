@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02-09.md",
+                "file": "Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02-09.md",
+                "file": "Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02-09.md",
+                "file": "Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02-09.md"
+                "file": "Obsidian.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "dfa41ce501d48bd7",
   "lastOpenFiles": [
-    "Testing Git Plugin.md",
     "Daily/2024-02-09.md",
+    "Obsidian.md",
+    "Testing Git Plugin.md",
     "Daily",
     "README.md"
   ]
