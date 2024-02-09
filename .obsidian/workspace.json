@@ -92,7 +92,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +153,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfa41ce501d48bd7",
+  "active": "9ef6127e4c367c1b",
   "lastOpenFiles": [
     "Daily/2024-02-09.md",
     "Obsidian.md",
