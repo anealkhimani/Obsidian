@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Aneal Daily/2024-02-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Aneal Daily/2024-02-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Aneal Daily/2024-02-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "Aneal Daily/2024-02-09.md"
               }
             }
           },
@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -153,12 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ef6127e4c367c1b",
+  "active": "dfa41ce501d48bd7",
   "lastOpenFiles": [
-    "Daily/2024-02-09.md",
-    "Obsidian.md",
     "Testing Git Plugin.md",
-    "Daily",
-    "README.md"
+    "README.md",
+    "Obsidian.md",
+    "Aneal Daily/2024-02-09.md",
+    "Aneal Daily"
   ]
 }
