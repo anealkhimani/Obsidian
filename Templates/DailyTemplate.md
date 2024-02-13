@@ -14,3 +14,7 @@ tags:
 
 
 
+## Wrap-Up Notes
+---
+### Did I accomplish anything?
+### Future things to consider?
