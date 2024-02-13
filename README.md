@@ -4,7 +4,7 @@
 *Double-Enter will exit out of the auto-numbering of ordered lists*
 
 ### Images are fun!
-![Aneal|200](https://anealkhimani.com/assets/img/avatar2.jpg)
+![Aneal|120](https://anealkhimani.com/assets/img/avatar2.jpg)
 
 ### Can we make a checklist?  WE CAN!
 - [x] Aneal is special
@@ -19,9 +19,9 @@
 | Susan | Jenkins |
 | Mary | Smith |
 | Another | Name |
-|  |  |
-|  |  |
-|  |  |
+
+
+
 
 Let's link to our daily note from a few days ago! [[2024-02-09]]
 This is silly, but I guess it means something.
