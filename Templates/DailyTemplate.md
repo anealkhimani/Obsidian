@@ -1,7 +1,3 @@
----
-tags:
-  - Template
----
 
 # General Notes
 ---
