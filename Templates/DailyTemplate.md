@@ -2,7 +2,6 @@
 # General Notes
 ---
 ### What is special about today?
-### What did I learn?
 
 ### What's on my mind?
 
@@ -18,3 +17,4 @@
 ---
 ### Did I accomplish anything?
 ### Future things to consider?
+### What did I learn?
