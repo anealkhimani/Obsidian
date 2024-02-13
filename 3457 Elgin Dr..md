@@ -4,11 +4,11 @@ Address: [3457 Elgin Dr., Decatur, GA 30032](https://www.google.com/maps/place/3
 Latitude: 33.735960
 Longitude: -84.248300
 
-Lake Vista Subdivision
-Census Tract: 023506
-Carrier Route: C013
-Zoning: R75
-Tax Parcel ID: 1516601057
+- Lake Vista Subdivision
+- Census Tract: 023506
+- Carrier Route: C013
+- Zoning: R75
+- Tax Parcel ID: 1516601057
 
 ### Property Tax Info
 ---
@@ -18,4 +18,12 @@ Tax Parcel ID: 1516601057
 
 ### Purchase ($355,000)
 ---
-Closing Date: 
+- Closing Date: 07/21/2022
+- Closing Attorney: [Raymer Law Group LLC](https://www.raymerlawgroup.com/)
+- Mortgage Servicer: [Rocket Mortgage](https://rocketmortgage.com)
+- Sellers Agent: [Tina Walton](mailto:tina.walton@metrobrokers.com) 
+
+### Home Inspection
+---
+- Date: 06/24/2022
+- [Inspect-Atlanta.com](https://Inspect-Atlanta.com)
