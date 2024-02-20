@@ -35,3 +35,4 @@ This is silly, but I guess it means something.
 TABLE file.cday AS "Created", file.tags AS "Tags"
 FROM "Daily"
 ```
+
