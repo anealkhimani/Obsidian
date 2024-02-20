@@ -46,3 +46,12 @@ This could be handy if you use it
 >This is a block quote.  The first line has an open bracket with an exclamation point and the word 'question' followed by a closing bracket and a minus sign.  This creates a callout that's foldable (and defaults to folded with a minus sign, unfolded with a plus sign).  There are several callout 'types'.  Question is one of them.  I think this adds to styling
 
 
+### Links and shiz
+You can link internally to another file (note) by using double square brackets.
+For example, this like [[Obsidian]] points to the note titled Obsidian.md
+
+If you want the link text to be different than the title of the file (like Obsidian above) just follow the link text in the square brackets with a | and the new 'alias' like this [[Obsidian | some other link]]
+
+You can even link to individual header sections within files by suffixing w/ a hash and the name of the block like [[README#Errbody to the TABLE! | this one]] which links to the table section above in this note...  Crafty!
+
+
