@@ -12,8 +12,8 @@ tags: obsidian, testing
 ![Aneal|120](https://anealkhimani.com/assets/img/avatar2.jpg)
 
 ### Can we make a checklist?  WE CAN!
-- [x] Aneal is special
-- [x] Aneal is the best
+- [ ] Aneal is special
+- [ ] Aneal is the best
 - [x] I wake up, piss excellence
 
 
