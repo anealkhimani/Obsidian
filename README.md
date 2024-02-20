@@ -33,5 +33,5 @@ This is silly, but I guess it means something.
 
 ```dataview
 LIST
-FROM #obsidian 
+FROM #testing
 ```
