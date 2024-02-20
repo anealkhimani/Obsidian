@@ -1,5 +1,7 @@
 ---
-tags: obsidian, testing
+tags:
+  - obsidian
+  - testing
 ---
 
 
