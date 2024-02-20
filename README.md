@@ -26,7 +26,3 @@
 Let's link to our daily note from a few days ago! [[2024-02-09]]
 This is silly, but I guess it means something.
 
-```dataview
-LIST 
-
-```
