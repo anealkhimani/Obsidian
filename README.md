@@ -37,3 +37,9 @@ FROM "Daily"
 ```
 
 The above block is created because of a Dataview
+
+### Callouts
+This could be handy if you use it
+>[!question]- What the hell is one?
+>This is a block quote.  The first line has an open bracket with an exclamation point and the word 'question' followed by a closing bracket and a minus sign.  This creates a callout that's foldable (and defaults to folded with a minus sign, unfolded with a plus sign).  There are several callout 'types'.  Question is one of them.  I think this adds to styling
+
