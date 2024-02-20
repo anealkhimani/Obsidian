@@ -36,3 +36,4 @@ TABLE file.cday AS "Created", file.tags AS "Tags"
 FROM "Daily"
 ```
 
+The above block is created because of a Dataview
