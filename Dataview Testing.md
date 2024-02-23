@@ -161,6 +161,21 @@ That was like `dv: [[Obsidian]].file.cday - date(today)` ago!
 
 ### Dataview JS
 There's a JavaScript API you can use too.  It let's you do some fancy shiz also, like some arbitrary and complex logic for queries and views.
+You can pull this off by making a block of code and giving it the 'dataviewjs' type as below:
+````
+```dataviewjs
+let pages = dv.pages("#daily");
+for (p in pages) {
+	ame)
+}
+```
+````
+```dataviewjs
+let pages = dv.pages("#daily");
+for (let p of pages) {
+	dv.header(3, p.file.link)	
+}
+```
 
 ### Inline Dataview JS
 Besides doing it in a block as above, you can also inline that stuff with the default JS Inline Prefix, ```
