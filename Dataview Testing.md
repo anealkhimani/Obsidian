@@ -85,7 +85,7 @@ You can even use 'WHERE' statements to further filter, though, I'm not demonstra
 ### Tables
 You aren't limited to 'Lists' like in the examples above.  You can also create tables of data like in the example below:
 ```dataview
-TABLE file.name AS Filename, file.cday AS CreateDate, file.tasks.text as Tasks
+TABLE file.cday AS CreateDate, file.tasks.text as Tasks
 FROM #daily
 ```
 
