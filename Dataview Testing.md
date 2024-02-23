@@ -89,9 +89,17 @@ TABLE file.name AS Filename, file.cday AS CreateDate, file.tasks.text as Tasks
 FROM #daily
 ```
 
+---
 Or maybe this one, which pulls all incomplete tasks from my notes tagged as '#daily':
 ```dataview
 TASK
 FROM #daily 
 WHERE !completed
+```
+
+---
+On the one below, we're finding any notes that have unfinished tasks in them.  If you want to get more complex, we're going to have to do some fancy function calling.  (We'll get back to that)
+```dataview
+LIST
+WHERE any(file.tasks, (t) => !t.completed)
 ```
