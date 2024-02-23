@@ -173,7 +173,7 @@ for (let p of pages) {
 ```dataviewjs
 let pages = dv.pages("#daily");
 for (let p of pages) {
-	dv.header(3, p.file.link)	
+	dv.header(5, p.file.link)	
 }
 ```
 
