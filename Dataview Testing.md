@@ -30,7 +30,7 @@ FROM #dataview
 ```
 ````
 
-This query will pull all notes that are tagged with '#dataview' (That's like a 'FROM' in SQL.  As of this writing, only this note fits the query)
+This query will pull all notes that are tagged with '#dataview' (That's like a 'FROM' in SQL.  As of this writing, only this current note fits the query)
 See the results in the view below
 ```dataview
 LIST
