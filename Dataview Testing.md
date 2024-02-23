@@ -15,10 +15,21 @@ This is the metadata as seen at the top of every file/note.  See above on this n
 	    name: 'bob'
 	    age: 21
 	```
-Then, in a dataview query you can use `person.age >= 18` to weed out the minors ;)
+Then, in a Dataview query you can use `WHERE person.age >= 18` to weed out the minors ;)
 
-2. Inline
-	You can add metadata inline using a 'Key:: Value' syntax anywhere in your note.
+#### Inline
+You can add metadata inline using a 'Key:: Value' syntax anywhere in your note.
+On an individual line with no content before it you can do it like so:
+```yaml
+Basic Field:: Some random Value
+**Bold Field**:: Noice!
+```
+Every bit of data after the double colon '::' is the value of the key until the next line break.  Notice how we used spaces in the 'Key' parts above?  This is technically translated by Dataview into a sanitized version of the key.  (in this case, 'basic-field' and 'bold-field')
+
+If you want to embed metadata directly in a sentence, or put multiple bits on the same line, use the bracket syntax:
+```yaml
+I give this movie [rating:: 2 snaps in 'z' formation]!  it was [mood:: aight]
+```
 
 
 ## Let's do a dataview!
