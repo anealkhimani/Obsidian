@@ -90,7 +90,10 @@ FROM #daily
 ```
 
 ---
-Or maybe this one, which pulls all incomplete tasks from my notes tagged as '#daily':
+
+### Task views
+You can create a task view that will display checkboxes (tasks) and their metadata.  See the list below:
+
 ```dataview
 TASK
 FROM #daily 
