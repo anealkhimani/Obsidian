@@ -152,6 +152,28 @@ Will render the value of the Frontmatter Key 'sampleNumber': `dv: this.sampleNum
 It's also possible to call out other notes by using the link to them `[[Obsidian]]` and appending the dot notation to it, as below, to see the create date of the Obsidian file:
 ```
 The [[Obsidian]] note was created on: `dv: [[Obsidian]].file.cday`
+That was like `dv: [[Obsidian]].file.cday - date(today)` ago!
 ```
 The [[Obsidian]] note was created on: `dv: [[Obsidian]].file.cday`
+That was like `dv: [[Obsidian]].file.cday - date(today)` ago!
+
+**Now that's fancy!**
+
+### Dataview JS
+There's a JavaScript API you can use too.  It let's you do some fancy shiz also, like some arbitrary and complex logic for queries and views.
+
+### Inline Dataview JS
+Besides doing it in a block as above, you can also inline that stuff with the default JS Inline Prefix, ```
+```
+`$=`
+```
+
+This allows you to harness the full capabilities of the DataviewJS API inline to do shiz like the following:
+```
+`$= dv.current().file.mtime`
+```
+Which renders out to be: `$= dv.current().file.mtime`
+
+
+
 
