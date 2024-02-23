@@ -30,9 +30,16 @@ FROM #dataview
 ```
 ````
 
-This query will pull all notes that are tagged with '#dataview' (as of this writing, only this note fits the query)
+This query will pull all notes that are tagged with '#dataview' (That's like a 'FROM' in SQL.  As of this writing, only this note fits the query)
 See the results in the view below
 ```dataview
 LIST
 FROM #dataview 
 ```
+Try sprinkling an 'AND' or an 'OR' in there like so:
+```dataview
+LIST
+FROM #template or #dataview 
+```
+
+You can even use 'WHERE' statements to further filter, though, I'm not demonstrating it here because I'm in the early stages of testing this shiz out...
