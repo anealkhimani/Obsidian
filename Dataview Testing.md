@@ -117,8 +117,8 @@ WHERE any(file.tasks, (t) => !t.completed)
 
 
 ## Query Language
-### Standard query
-Obvs, looking at the above examples, you can create a block query using the code block format (triple backticks) and adding the 'dataview' keyword as the type, like so:
+### Dataview query language (DQL)
+Obvs, looking at the above examples, you can create a block query using the code block format (triple backticks) and adding the 'dataview'  type, like so:
 ````
 ```dataview
 <here is some query stuff>
@@ -126,7 +126,7 @@ Obvs, looking at the above examples, you can create a block query using the code
 ````
 
 ### Inline query
-You can also just run a query inline in a sentence using a single-backtick and the 'Inline Query' prefix you specified in the options for this plugin (in my case it's 
+You can also just run a query inline in a sentence using a single-backtick and the 'Inline Query' prefix you specified in the options for this plugin (in my case it's as below)
 ```
 `dv:`
 ```
