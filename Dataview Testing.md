@@ -92,7 +92,7 @@ FROM #daily
 ---
 
 ### Task views
-You can create a task view that will display checkboxes (tasks) and their metadata.  See the list below:
+You can create a task view that will display checkboxes (tasks) and their metadata.  See the list below.  It retrieves all Tasks from notes tagged '#daily' that are incomplete:
 
 ```dataview
 TASK
