@@ -165,8 +165,8 @@ You can pull this off by making a block of code and giving it the 'dataviewjs' t
 ````
 ```dataviewjs
 let pages = dv.pages("#daily");
-for (p in pages) {
-	ame)
+for (let p of pages) {
+	dv.header(3, p.file.link)	
 }
 ```
 ````
@@ -188,7 +188,3 @@ This allows you to harness the full capabilities of the DataviewJS API inline to
 `$= dv.current().file.mtime`
 ```
 Which renders out to be: `$= dv.current().file.mtime`
-
-
-
-
