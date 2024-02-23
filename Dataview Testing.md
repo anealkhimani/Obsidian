@@ -89,3 +89,9 @@ TABLE file.name AS Filename, file.cday AS CreateDate, file.tasks.text as Tasks
 FROM #daily
 ```
 
+Or maybe this one, which pulls all incomplete tasks from my notes tagged as '#daily':
+```dataview
+TASK
+FROM #daily 
+WHERE !completed
+```
