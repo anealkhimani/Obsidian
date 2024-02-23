@@ -33,7 +33,12 @@ I give this movie [rating:: 2 snaps in 'z' formation]!  it was [mood:: aight]
 ```
 
 #### Implicit
+##### Files
 Out of the box, Dataview comes with several metadata bits that are automatically indexed for various things.  Notably, files have a [Huge List](https://blacksmithgu.github.io/obsidian-dataview/annotation/metadata-pages/)of things that you can query without any manual input by you.  Some are file.cday (when the file was created) file.folder (duh)
+
+##### Lists/Tasks
+There are also some [implicit metadata bits](https://blacksmithgu.github.io/obsidian-dataview/annotation/metadata-tasks/) added to lists of items or tasks.  You can also explicitly add metadata using the Inline method mentioned above (with brackets/double colons)
+
 
 
 ## Let's do a dataview!
