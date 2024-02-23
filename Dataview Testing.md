@@ -3,6 +3,22 @@ tags:
     - test
     - dataview
 ---
+### Beginning thoughts
+Let's first think about what Dataviews do.  The plugin indexes your notes and looks for metadata (not the full note text).  You can then use/combine/etc. this metadata to display tables/lists of notes that you can use in various ways.  The plugin does ==not== modify your notes.  Rather, it aggregates the metadata about the notes and let's you display that in curious ways.
+#### How do we get metadata into our notes?
+There's 3 ways:
+1. Frontmatter
+	This is the metadata as seen at the top of every file/note.  See above on this note for the 'tags' metadata I added.  Tags are a common [[Obsidian]] tool, but you're not limited to this.  Any key/value pair will work (even YAML lists, like the tags above).  For example, if I was taking notes about a book, I could put an 'author' key and a 'Stephen King' value in there.  That would allow me to query for all notes with an author key whose value is 'Stephen King'.  Several data formats will work, like strings in this example, but also numbers like `rating: 2` or even objects:
+	```yaml
+	person:
+	    name: 'bob'
+	    age: 21
+	```
+Then, in a dataview query you can use `person.age >= 18` to weed out the minors ;)
+
+2. Inline
+	You can add metadata inline using a 'Key:: Value' syntax anywhere in your note.
+
 
 ### Let's do a dataview!
  > [!info]- Check out the code block below:
