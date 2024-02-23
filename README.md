@@ -20,12 +20,12 @@ tags:
 
 
 ### Errbody to the TABLE!
-| **First** | **Last** |
-| ---- | ---- |
-| Bob | Jones |
-| Susan | Jenkins |
-| Mary | Smith |
-| Another | Name |
+| **First** | **Last** | Rank   |
+| --------- | -------- | ------ |
+| Bob       | Jones    | Master |
+| Susan     | Jenkins  | Padwan |
+| Mary      | Smith    | Master |
+| Another   | Name     | Knight |
 
 
 
