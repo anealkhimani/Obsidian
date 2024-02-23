@@ -2,6 +2,8 @@
 tags: 
     - test
     - dataview
+sampleNumber: 3
+sampleBoolean: true
 ---
 ## Beginning thoughts
 ### What even is it?
@@ -112,3 +114,44 @@ On the one below, we're finding any notes that have unfinished tasks in them.  I
 LIST
 WHERE any(file.tasks, (t) => !t.completed)
 ```
+
+
+## Query Language
+### Standard query
+Obvs, looking at the above examples, you can create a block query using the code block format (triple backticks) and adding the 'dataview' keyword as the type, like so:
+````
+```dataview
+<here is some query stuff>
+```
+````
+
+### Inline query
+You can also just run a query inline in a sentence using a single-backtick and the 'Inline Query' prefix you specified in the options for this plugin (in my case it's 
+```
+`dv:`
+```
+
+This inline format lets you do some `dv: date(today)` fancy things (you can see them if you move your cursor over the date section in this sentence)
+
+These inline queries only display one value (not a list or table).  They act on one thing.  If you use the `this` keyword, you can access metadata about the current file.  See below:
+````
+`dv: this.file.name`
+````
+Renders this note's filename: `dv: this.file.name`
+
+```
+`dv: this.file.mtime`
+```
+Will render this note's last Modify Time: `dv: this.file.mtime`
+
+```
+`dv: this.sampleNumber`
+```
+Will render the value of the Frontmatter Key 'sampleNumber': `dv: this.sampleNumber`
+
+It's also possible to call out other notes by using the link to them `[[Obsidian]]` and appending the dot notation to it, as below, to see the create date of the Obsidian file:
+```
+The [[Obsidian]] note was created on: `dv: [[Obsidian]].file.cday`
+```
+The [[Obsidian]] note was created on: `dv: [[Obsidian]].file.cday`
+
