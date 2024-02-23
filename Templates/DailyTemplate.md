@@ -1,6 +1,7 @@
 ---
 tags:
   - daily
+  - template
 ---
 
 << <% "[[Daily/" + tp.date.yesterday("YYYY-MM-DD") + "|Yesterday]]" %> | <% "[[Daily/" + tp.date.tomorrow("YYYY-MM-DD") + "|Tomorrow]]" %> >>
