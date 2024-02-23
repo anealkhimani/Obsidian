@@ -6,6 +6,7 @@ tags:
 ## Beginning thoughts
 ### What even is it?
 Let's first think about what Dataviews do.  The plugin indexes your notes and looks for metadata (not the full note text).  You can then use/combine/etc. this metadata to display tables/lists of notes that you can use in various ways.  The plugin does ==not== modify your notes.  Rather, it aggregates the metadata about the notes and let's you display that in curious ways.
+
 ### How do we get metadata into our notes?
 There's 3 ways:
 #### Frontmatter
