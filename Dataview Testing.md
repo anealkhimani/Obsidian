@@ -32,6 +32,9 @@ If you want to embed metadata directly in a sentence, or put multiple bits on th
 I give this movie [rating:: 2 snaps in 'z' formation]!  it was [mood:: aight]
 ```
 
+#### Implicit
+Out of the box, Dataview comes with several metadata bits that are automatically indexed for various things.  Notably, files have a [Huge List](https://blacksmithgu.github.io/obsidian-dataview/annotation/metadata-pages/)of things that you can query without any manual input by you.  Some are file.cday (when the file was created) file.folder (duh)
+
 
 ## Let's do a dataview!
  > [!info]- Check out the code block below:
