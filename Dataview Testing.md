@@ -19,6 +19,20 @@ tags:
 
 
 
+### Adding Filters
+You can further filter the results from a Dataview Query by including a 'FROM' and 'WHERE' clause.
+These things work a lot like SQL as in the view below:
 
+````
+```dataview
+LIST
+FROM #dataview 
+```
+````
 
-
+This query will pull all notes that are tagged with '#dataview' (as of this writing, only this note fits the query)
+See the results in the view below
+```dataview
+LIST
+FROM #dataview 
+```
