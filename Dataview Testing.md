@@ -159,7 +159,7 @@ That was like `dv: [[Obsidian]].file.cday - date(today)` ago!
 
 **Now that's fancy!**
 
-### Dataview JS
+### Block Dataview JS
 There's a JavaScript API you can use too.  It let's you do some fancy shiz also, like some arbitrary and complex logic for queries and views.
 You can pull this off by making a block of code and giving it the 'dataviewjs' type as below:
 ````
