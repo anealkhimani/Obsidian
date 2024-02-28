@@ -101,7 +101,7 @@ sort file.ctime
 ---
 
 ### Task views
-You can create a task view that will display checkboxes (tasks) and their metadata.  See the list below.  It retrieves all Tasks from notes tagged '#daily' that are incomplete:
+You can create a task view that will display checkboxes (tasks) and their metadata.  See the list below.  It retrieves all Tasks from notes frontmatter tagged '#daily' that are incomplete:
 
 ```dataview
 TASK
@@ -109,7 +109,7 @@ FROM #daily
 WHERE !completed
 ```
 
-And now a list of completed tasks (from any note, with any tag):
+And now a list of completed tasks (from any note, with any frontmatter tag):
 ```dataview
 TASK
 WHERE completed
