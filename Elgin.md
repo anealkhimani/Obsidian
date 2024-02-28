@@ -1,3 +1,8 @@
+---
+tags:
+  - home
+---
+
 # Our Home
 ---
 Address: [3457 Elgin Dr., Decatur, GA 30032](https://www.google.com/maps/place/3457+Elgin+Dr,+Decatur,+GA+30032/@33.7360669,-84.2482735,17z/data=!3m1!4b1!4m6!3m5!1s0x88f5aa3deffb1f63:0xdd744c97ea250ef5!8m2!3d33.7360669!4d-84.2482735!16s%2Fg%2F11kpjzq0bp?entry=ttu)
