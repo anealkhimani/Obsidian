@@ -91,6 +91,13 @@ TABLE file.cday AS CreateDate, file.tasks.text as Tasks
 FROM #daily
 ```
 
+
+You can even sort the results that show in the table by adding a `sort` statement
+```dataview
+table file.ctime
+sort file.ctime
+```
+
 ---
 
 ### Task views
