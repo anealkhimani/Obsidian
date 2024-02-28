@@ -119,7 +119,7 @@ WHERE completed
 And finally one that grabs only tasks with a 'type' value of 'purchase'
 ```dataview
 TASK
-WHERE type = purchase
+WHERE task.tags
 ```
 
 ---
