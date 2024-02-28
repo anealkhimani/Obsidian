@@ -116,9 +116,14 @@ WHERE completed
 ```
 
 
-And finally one that grabs only tasks with a 'type' value of 'purchase'
+And finally, let's play around with some more task lists
 ```dataviewjs
 dv.taskList(dv.pages().file.tasks.where(t => t.type == "purchase"));
+```
+
+
+```dataviewjs
+dv.taskList(dv.pages("#daily").file.tasks)
 ```
 
 
