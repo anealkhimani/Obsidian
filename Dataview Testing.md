@@ -117,11 +117,8 @@ WHERE completed
 
 
 And finally one that grabs only tasks with a 'type' value of 'purchase'
-```dataview
-TASK
-FROM #daily 
-FLATTEN task.lists AS T
-WHERE L.type = purchase
+```dataviewjs
+dv.taskList(dv.pages().file.tasks.where(t => t.type == "purchase"));
 ```
 
 
