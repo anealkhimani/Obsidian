@@ -118,8 +118,12 @@ WHERE completed
 
 And finally one that grabs only tasks with a 'type' value of 'purchase'
 ```dataview
-TABLE filter(file.tasks.text, (x) => contains(x, "::purchase"))
+TASK
+FROM #daily 
+FLATTEN task.lists AS T
+WHERE L.type = purchase
 ```
+
 
 
 ---
