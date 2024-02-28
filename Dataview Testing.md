@@ -118,9 +118,9 @@ WHERE completed
 
 And finally one that grabs only tasks with a 'type' value of 'purchase'
 ```dataview
-TASK
-WHERE task.tags
+TABLE filter(file.tasks.text, (x) => contains(x, "::purchase"))
 ```
+
 
 ---
 On the one below, we're finding any notes that have unfinished tasks in them.  If you want to get more complex, we're going to have to do some fancy function calling.  (We'll get back to that)
