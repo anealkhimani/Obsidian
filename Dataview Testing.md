@@ -119,8 +119,7 @@ WHERE completed
 And finally, let's play around with some more task lists.  This next one uses a dataviewjs block to pull a list of all tasks that have an inline tag of 'type' with value 'purchase'
 ```dataviewjs
 dv.taskList(dv.pages().file.tasks
-	.where(t => t.type == "purchase"))
-	.sort((task1, task2) => task2.Date - task1.Date);
+	.where(t => t.type == "purchase"));	
 ```
 
 
