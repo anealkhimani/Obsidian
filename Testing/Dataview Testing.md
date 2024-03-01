@@ -107,6 +107,7 @@ You can create a task view that will display checkboxes (tasks) and their metada
 TASK
 FROM #daily 
 WHERE !completed
+SORT created ASC
 ```
 
 And now a list of completed tasks (from any note, with any frontmatter tag):
@@ -119,8 +120,7 @@ WHERE completed
 Let's play more if possible
 ```dataview
 TASK
-WHERE completed AND type === "purchase"
-
+WHERE completed AND type contains("purchase")
 ```
 
 And finally, let's play around with some more task lists.  This next one uses a dataviewjs block to pull a list of all tasks that have an inline tag of 'type' with value 'purchase'
