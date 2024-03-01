@@ -107,6 +107,7 @@ You can create a task view that will display checkboxes (tasks) and their metada
 TASK
 FROM #daily 
 WHERE !completed
+SORT text
 ```
 
 And now a list of completed tasks (from any note, with any frontmatter tag):
