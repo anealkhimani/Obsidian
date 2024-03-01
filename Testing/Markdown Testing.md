@@ -11,7 +11,7 @@ __bold is done with double undercore or double asterisk__
 ==Double Equal Signs will highlight==
 
 ### Lists
-Unordered lists use hyphen and space (or asterisk or plus sign)
+Unordered lists use hyphen and space (or asterisk or plus sign)[^1]
 - Something
 - something else
 - more
@@ -68,7 +68,7 @@ You can create a link to a footnote thusly:
 By doing so, you can later create the destination of the link thusly:
 `[^1]: <some stuff>`
 
-Let's experiment with footnotes[^1].
+Imma try to footnote above.  Look for the fancy bracket-number bidness to see it work.
 
 
 
