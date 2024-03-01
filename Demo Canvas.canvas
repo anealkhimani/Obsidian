@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"3d32751d11794018","x":-780,"y":-500,"width":250,"height":60,"type":"text","text":"Random Note"}
+		{"id":"3d32751d11794018","x":-900,"y":-640,"width":280,"height":240,"type":"text","text":"### Random Note\nHere's some stuff.  Woo!\n- and more\n- Even ***MORE***\n\n"},
+		{"id":"00df0d5669d1e7ed","x":-400,"y":-560,"width":400,"height":400,"type":"file","file":"Dataview Testing.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"ba80de6f6eaa115d","fromNode":"00df0d5669d1e7ed","fromSide":"left","toNode":"3d32751d11794018","toSide":"right","label":"Labelled Connection?!"}
+	]
 }
