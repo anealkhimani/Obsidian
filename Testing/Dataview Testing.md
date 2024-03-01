@@ -101,7 +101,26 @@ sort file.ctime
 ---
 
 ### Task views
-You can create a task view that will display checkboxes (tasks) and their metadata.  See the list below.  It retrieves all Tasks from notes frontmatter tagged '#daily' that are incomplete:
+You can create a task view that will display checkboxes (tasks) and their metadata.  See the list below.  This one is the most basic, showing all items in all notes that are tasks (checkboxes)
+```dataview
+TASK
+```
+
+
+I'll attempt to sort this list now by the `checked` metadata attribute
+```dataview
+TASK
+SORT checked
+```
+
+Now I'll try to get only the ones marked as type=purchase
+```dataviewjs
+TASK
+WHERE tags.contains("purchase")
+```
+
+
+This one retrieves all Tasks from notes frontmatter tagged '#daily' that are incomplete:
 
 ```dataview
 TASK
