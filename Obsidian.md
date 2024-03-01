@@ -1,6 +1,6 @@
 This exists because I created a link in a Daily note, and then clicked it.  *links are created by surrounding a word with double square brackets*
 
-*Perhaps I should consider learning how this product works?*
+*Perhaps I should consider learning how this product works?* ^ddc44b
 
 ### Optiplex install
 ---
