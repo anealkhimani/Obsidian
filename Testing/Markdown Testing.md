@@ -10,6 +10,11 @@ __bold is done with double undercore or double asterisk__
 
 ==Double Equal Signs will highlight==
 
+
+### Blockquotes
+It's easy really
+> Some text was written here by someone
+
 ### Lists
 Unordered lists use hyphen and space (or asterisk or plus sign)[^1]
 - Something
