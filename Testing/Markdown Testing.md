@@ -1,6 +1,6 @@
 # Heading 1
 ## Heading 2
-etc.
+etc. ^191944
 
 _italics can be achieved with an underscore surrounding the text_
 *A single asterisk will do it too* ^54d81d
@@ -47,3 +47,28 @@ If you're really fancy, you can link to an individual _block_ of text in a file 
 [[Markdown Testing#^54d81d]]
 Let's try to alias that shiz
 [[Obsidian#^ddc44b|Obsidian Stuff]]
+
+
+Linking externally.
+We've done this before, but a single bracket surrounding the link text and follow that with parens, surrounding the link URL like so:
+[The Googs](https://google.com)
+You can tell this is external visually by the little icon to the right that points outward to an external link.
+
+
+Now you can embed a link directly into a note by prefixing the bracket stuff with an exclamation point like so:
+
+![[Markdown Testing#^191944]]
+
+Note that here I embedded a section in the current note, and it provides some styling and a little link icon to allow you to connect directly to the linked note (which would be helpful if the embedded bit was from another note altogether.)
+
+### Footnotes
+You can create a link to a footnote thusly:
+`[^1]`
+
+By doing so, you can later create the destination of the link thusly:
+`[^1]: <some stuff>`
+
+Let's try it! [^1]
+
+
+[^1]: Some shiz about footnotes?
