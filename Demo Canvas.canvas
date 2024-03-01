@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"aa1a357b8a515ef4","x":52,"y":-944,"width":468,"height":384,"type":"text","text":"### Cards\nThis is a card.  I created it by clicking the 'node' on the right edge of the Dataview Testing note below and selecting 'New Card'.  Cards aren't actual *notes*. They live here on a Canvas only.\nNow, let's say you write a bunch of shit here, and you want to *turn* it into a note, you can right-click this card, and select  `Convert to File` and viola, Bob's your Uncle."},
 		{"id":"3d32751d11794018","x":-1180,"y":-1120,"width":280,"height":240,"type":"text","text":"### Random Note\nHere's some stuff.  Woo!\n- and more\n- Even ***MORE***\n- I created this note *IN* this canvas.\n- The one to the right with the `Labelled Connection` already existed in my Vault, I just drug it from the tree onto this Canvas and linked it to this note.  But why?\n\n"},
-		{"id":"00df0d5669d1e7ed","x":-700,"y":-1040,"width":400,"height":400,"type":"file","file":"Dataview Testing.md"}
+		{"id":"00df0d5669d1e7ed","x":-700,"y":-1040,"width":400,"height":400,"type":"file","file":"Dataview Testing.md"},
+		{"id":"6ecd76fabf5770c7","x":-1180,"y":-700,"width":440,"height":240,"type":"text","text":"# Possible Use Cases:\nThis might seem silly at first blush, but what if:\n1. You wanted to map out your home network (or any computer network).  The color coding bit is useful, plus you can link bits with those fancy node arrows.\n2. "}
 	],
 	"edges":[
 		{"id":"ba80de6f6eaa115d","fromNode":"00df0d5669d1e7ed","fromSide":"left","toNode":"3d32751d11794018","toSide":"right","label":"Labelled Connection?!"},
