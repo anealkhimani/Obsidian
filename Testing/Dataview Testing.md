@@ -113,11 +113,6 @@ TASK
 SORT checked
 ```
 
-Now I'll try to get only the ones marked as type=purchase
-```dataviewjs
-TASK
-WHERE tags.contains("purchase")
-```
 
 
 This one retrieves all Tasks from notes frontmatter tagged '#daily' that are incomplete:
@@ -136,11 +131,7 @@ WHERE completed
 ```
 
 
-Let's play more if possible
-```dataview
-TASK
-WHERE completed
-```
+
 
 And finally, let's play around with some more task lists.  This next one uses a dataviewjs block to pull a list of all tasks that have an inline tag of 'type' with value 'purchase'
 ```dataviewjs
