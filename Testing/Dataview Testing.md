@@ -223,3 +223,11 @@ This allows you to harness the full capabilities of the DataviewJS API inline to
 `$= dv.current().file.mtime`
 ```
 Which renders out to be: `$= dv.current().file.mtime`
+
+
+I wonder...
+```dataviewjs
+for (let p of dv.pages()) {
+	dv.el("div", p.file.cday)
+}
+```
