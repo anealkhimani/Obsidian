@@ -69,6 +69,8 @@ By doing so, you can later create the destination of the link thusly:
 `[^1]: <some stuff>`
 
 Imma try to footnote above.  Look for the fancy bracket-number bidness to see it work.
+==Keep in mind, footnotes are only viewable in _reading mode_==
+
 
 
 
