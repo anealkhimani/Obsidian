@@ -68,7 +68,9 @@ You can create a link to a footnote thusly:
 By doing so, you can later create the destination of the link thusly:
 `[^1]: <some stuff>`
 
-Let's try it! [^1]
+Let's experiment with footnotes[^1].
 
 
-[^1]: Some shiz about footnotes?
+
+
+[^1]: This is the referenced footnote
