@@ -71,6 +71,11 @@ By doing so, you can later create the destination of the link thusly:
 Imma try to footnote above.  Look for the fancy bracket-number bidness to see it work.
 ==Keep in mind, footnotes are only viewable in _reading mode_==
 
+What may be more fancy is doing a footnote inline with this syntax:
+`Something is good^[<someFootnoteText>]`
+This will create the footnote for you automagically?
+Let's see it ^[In Action]
+
 
 
 
