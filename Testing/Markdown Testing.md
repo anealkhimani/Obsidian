@@ -25,6 +25,12 @@ Ordered lists begin with numbers and periods followed by a space
 2. Find John Conner
 3. Get to the Choppa
 
+And checklists?  use `Ctrl + l`
+- [ ] good
+- [ ] better
+- [ ] best [type::purchase]
+
+
 ### Links
 `[[ ]]` double brackets creates a link to another note in your vault.  You can suffix the note name with a space, `|` pipe character, space and type an alias to change the text value of the link like the one below:
 [[Dataview Testing | something here]]
