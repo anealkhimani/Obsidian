@@ -39,6 +39,5 @@ Here's the same link aliased in a super appropriate way:
 Blocks in the same page
 If you're really fancy, you can link to an individual _block_ of text in a file with the caret character `^` like so:
 [[Markdown Testing#^54d81d]]
-
 Let's try to alias that shiz
 [[Obsidian#^ddc44b|Obsidian Stuff]]
