@@ -77,6 +77,14 @@ This will create the footnote for you automagically?
 Let's see it ^[In Action]
 
 
+### Tables
+Separate headers with a pipe char, then on new lines, you'll automatically get a table row, where you can separate cells with pipes again.  This sounds confusing.  Let's just make that shiz happen!
+
+Name | Age | Job
+--- | --- | ---
+Scooby | 23 | Snacker
+Fred | 18 | Dumbass
+Velma | 22 | Secret Foxy Lady
 
 
 
