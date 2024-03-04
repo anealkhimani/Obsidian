@@ -10,7 +10,8 @@ I opted _not_ to use a global identifier with the tasks.  I'm told in the docume
 - [ ] Walk the dog  [due:: 2024-03-05]
 - [ ] Try the veal, and the hotkey shortcut
 - [ ] Use the Dataview Format  [due:: 2024-03-11] [priority:: high ]
-- [ ] On restart and after a setting change, now there's create dates automatically tracked.
+- [x] On restart and after a setting change, now there's create dates automatically added.  But I'm not seeing it happen  [completion:: 2024-03-04]
+
 
 
 
@@ -20,7 +21,6 @@ I opted _not_ to use a global identifier with the tasks.  I'm told in the docume
 As you can see, the two we created up above show up in the list below.
 
 ```tasks
-not done
 ```
 
 
