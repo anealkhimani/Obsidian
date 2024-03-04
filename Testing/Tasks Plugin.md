@@ -11,6 +11,7 @@ I opted _not_ to use a global identifier with the tasks.  I'm told in the docume
 - [ ] Try the veal, and the hotkey shortcut
 - [ ] Use the Dataview Format  [due:: 2024-03-11] [priority:: high ]
 - [x] On restart and after a setting change, now there's create dates automatically added.  But I'm not seeing it happen  [completion:: 2024-03-04]
+- [ ] I don't even know
 
 
 
