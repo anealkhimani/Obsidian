@@ -14,7 +14,8 @@ I opted _not_ to use a global identifier with the tasks.  I'm told in the docume
 - [ ] Looks like you have to use the modal to add an automatic Created Date  [created:: 2024-03-04]
 
 
-
+> [!info] 
+> See how the tasks above look normal?  They display fancy icons and emojii when used in a task view, as below
 
 
 
