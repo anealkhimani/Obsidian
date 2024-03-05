@@ -55,3 +55,8 @@ Oh my, this is fancy
 >[!check]- Check out this range, baby
 >```tasks
 >happens this week
+
+### Text Filters?
+>[!check]- Heading Text filter
+>```tasks
+>heading includes "Daily TODO"
