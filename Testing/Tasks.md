@@ -71,7 +71,7 @@ Oh my, this is fancy
 >[!check]- How about tagged searching?
 >In this one, there are two filters (one for a due date after today and another for specific tags)
 >Notice that there is an implied 'AND' separating these tasks (not explicit)
->You can use any of the major boolean operators 'NOT', 'AND', 'OR', 'AND NOT', 'OR NOT' and 'XOR' if you wanna
+>You can use any of the major boolean operators 'NOT', 'AND', 'OR', 'AND NOT', 'OR NOT' and 'XOR' if you wanna, but you have to wrap each condition in parens (:)
 >
 >```tasks
 >due after today
