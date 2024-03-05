@@ -17,6 +17,7 @@ I opted _not_ to use a global identifier with the tasks.  I'm told in the docume
 - [ ] Use the Dataview Format  [due:: 2024-03-11] [priority:: high ]
 - [ ] On restart and after a setting change, now there's create dates automatically added.  But I'm not seeing it happen
 - [ ] Looks like you have to use the modal to add an automatic Created Date  [created:: 2024-03-04]
+- [ ] #purchase Buy some chickens with poison interlaced with the meat [due:: 2024-03-10 ]
 
 
 
@@ -66,3 +67,8 @@ Oh my, this is fancy
 >[!check]- Heading Text filter
 >```tasks
 >heading does not include Daily TODO
+
+>[!check]- How about tagged searching?
+>```tasks
+>due after today
+>tags include #purchase 
