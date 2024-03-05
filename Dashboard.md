@@ -1,5 +1,6 @@
 ---
-type: dashboard
+tags:
+    - dashboard
 ---
 # To Do:
 --- 

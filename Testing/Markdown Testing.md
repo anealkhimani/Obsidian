@@ -1,3 +1,8 @@
+---
+tags:
+    - test
+---
+
 # Heading 1
 ## Heading 2
 etc. ^191944
@@ -90,6 +95,7 @@ Name | Age | Job
 Scooby | 23 | Snacker
 Fred | 18 | Dumbass
 Velma | 22 | Secret Foxy Lady
+
 
 
 

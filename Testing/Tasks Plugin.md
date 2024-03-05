@@ -1,3 +1,8 @@
+---
+tags:
+    - test
+---
+
 
 ## Some considerations
 This community plugin comes with some built-in goodness.  There's a Modal that you can use to create tasks in a special way, with lots of options.  You can either toggle it with the Command Palette `Tasks: Create or Edit` or with the hotkey combo I created for this purpose `Ctrl + Shift + t`
