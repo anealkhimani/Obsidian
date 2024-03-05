@@ -5,6 +5,5 @@ tags:
     - Chase
 ---
 # [Chase Bank](https://chase.com)
-Currently, I have a personal checking account with Chase Bank.  Liz and I share a Joint Checking account there as well.  The details are as follows:
+Currently, I have a personal checking account with Chase Bank.  Liz and I share a Joint Checking account there as well.
 
-## Personal Checking
