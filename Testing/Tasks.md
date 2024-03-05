@@ -27,15 +27,27 @@ I opted _not_ to use a global identifier with the tasks.  I'm told in the docume
 
 ## Queries
 ### Here is a tasks query that retrieves all tasks tracked by the plugin. 
-As you can see, the ones we created up above show up in the list below.
+As you can see, the ones we created up above show up in the list below.  This query also shows some links (emojis) you can use to modify the tasks, as well as a link to the page where the task was created (directly pointing to the actual task)
 
 ```tasks
 ```
 
 
 
-### Here's one wrapped in a collapsed callout
+### Here's a query wrapped in a collapsed callout
 >[!check]- Due Today
 >```tasks
 >due today
 >not done
+
+
+### Query with dates or ranges of dates
+Oh my, this is fancy
+>[!check]- With a single date
+>```tasks
+>starts before 2024-03-09
+>due on or before today
+
+>[!check]- Another example
+>```tasks
+>due on or after today
