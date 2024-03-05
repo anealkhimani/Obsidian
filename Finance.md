@@ -29,5 +29,15 @@ I previously used it to pay my T-Mobile (previously Sprint) cell phone bill, but
 I'm an authorized user of this card that Liz signed us up for.  There's no account access for authorized users.  All of our joint purchases are made with this card (Bills, dinner out, one-off purchases, home stuff).  Liz manually pays this bill bi-weekly from the [[Finance#[Chase Bank](https //chase.com)|Joint Checking Account]]
 
 ## [Lowe's](https://lowes.com)
-I signed up for a Lowe's line of credit when I bought my Delta Table Saw.  Doing so saved me 10% off my purchase at the time.  Also, I save 5% each time I use the card.  I pay this card balance in full manually after each use (either with my personal Checking Account or the Joint Account, based on who the purchase was for :) )
+I signed up for a Lowe's line of credit when I bought my Delta Table Saw.  Doing so saved me 10% off my purchase at the time.  Also, I save 5% each time I use the card.  I pay this card balance in full manually after each use (either with my personal Checking Account or the Joint Account, based on who the purchase was for)
+
+
+
+# Crypto Currency
+## [Exodus](https://exodus.com)
+I'm currently using Exodus as a Software based Crypto Currency Wallet.  It's installed on my home machine and my work machine and phone.
+
+There's a 12 word 'secret phrase' associated with the app used as a recovery tool.  This phrase is printed on paper and held in both the safe at home and the File Cabinet under the `misc` folder.
+
+If you forget the password to the Exodus app (or want to install it on another machine) You'll need to use this 12 word phrase.  It is ***VERY IMPORTANT*** that you do not lose this phrase.  If so, you won't ***EVER*** be able to access those funds again (as of this writing, about $5800 USD)
 
