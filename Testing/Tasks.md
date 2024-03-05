@@ -25,6 +25,7 @@ I opted _not_ to use a global identifier with the tasks.  I'm told in the docume
 
 
 
+## Queries
 ### Here is a tasks query that retrieves all tasks tracked by the plugin. 
 As you can see, the ones we created up above show up in the list below.
 
@@ -32,3 +33,9 @@ As you can see, the ones we created up above show up in the list below.
 ```
 
 
+
+### Here's one wrapped in a collapsed callout
+>[!check]- Due Today
+>```tasks
+>due today
+>not done
