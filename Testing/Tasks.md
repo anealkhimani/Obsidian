@@ -63,7 +63,6 @@ Oh my, this is fancy
 >```tasks
 >heading includes Daily TODO
 
-
 >[!check]- Heading Text filter
 >```tasks
 >heading does not include Daily TODO
