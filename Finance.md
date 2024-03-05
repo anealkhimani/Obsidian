@@ -25,4 +25,5 @@ This card account is enrolled in Auto-Pay from our [[Finance#[Chase Bank](https 
 I previously used it to pay my T-Mobile (previously Sprint) cell phone bill, but not sure what it's being used for now (if anything)
 - [ ] Check my Citi Double Cash card account to see what it's doing [due:: 2024-03-05 ]
 
-##
+## Chase Freedom Unlimited
+I'm an authorized user of this card that Liz signed us up for.  There's no account access for authorized users.  All of our joint purchases are made with this card (Bills, dinner out, one-off purchases, home stuff).  Liz manually pays this bill bi-weekly from the [[Finance#[Chase Bank](https //chase.com)|Joint Checking Account]]
