@@ -50,4 +50,16 @@ Purchases are automatically put into a cloud based Coinbase wallet.  I usually t
 I hold a brokerage account here for buying/selling stocks.  It's linked to my personal checking account to facilitate movement of Fiat currency into/out of the account.
 
 ## [Robinhood](https://robinhood.com)
-I have a Robinhood account.  The app is installed on my personal Cell phone.  There is one share of some random stock in the account that I received for free as a result of signing up for an account.  There's no real value there (as of this writing, maybe)
+I have a Robinhood account.  The app is installed on my personal Cell phone.  There is one share of some random stock in the account that I received for free as a result of signing up for an account.  There's no real value there (as of this writing: `dv: this.file.ctime`, maybe $5 USD?)
+
+
+# Retirement
+## [Principal](https://accounts.principal.com/)
+I currently (`dv: this.file.ctime`) hold a Roth-IRA and a traditional 401(k) account here.  
+
+
+# Other
+## HSA ([Bend](https://user.bendhsa.com/#/))
+Currently (`dv: this.file.ctime`) I contribute $30 USD per pay period towards my Healthcare Savings Account.  The balance there is roughly $5500 USD
+
+On 6/21/2023 I enrolled for an HSA Investment account which allows me to invest my HSA balance into securities.  I have not allocated these funds yet...
