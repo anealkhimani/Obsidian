@@ -7,5 +7,5 @@ tags:
 
 
 ```query
-tag:#task
+tag:#purchase
 ```

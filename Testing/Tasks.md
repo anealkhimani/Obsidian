@@ -21,7 +21,7 @@ I opted _not_ to use a global identifier with the tasks.  I'm told in the docume
 
 
 > [!info] 
-> See how the tasks above look normal?  They display fancy icons and emojii when used in a task view, as below
+> See how the tasks above look normal?  They display fancy icons and emojis when used in a task view, as below
 
 
 
