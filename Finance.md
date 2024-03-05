@@ -60,6 +60,6 @@ I currently (`dv: this.file.ctime`) hold a Roth-IRA and a traditional 401(k) acc
 
 # Other
 ## HSA ([Bend](https://user.bendhsa.com/#/))
-Currently (`dv: this.file.ctime`) I contribute $30 USD per pay period towards my Healthcare Savings Account.  The balance there is roughly $5500 USD
+Currently (`dv: this.file.ctime`) I contribute $30 USD per pay period towards my Healthcare Savings Account.  The balance there is roughly $7000 USD
 
 On 6/21/2023 I enrolled for an HSA Investment account which allows me to invest my HSA balance into securities.  I have not allocated these funds yet...
