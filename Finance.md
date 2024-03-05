@@ -41,3 +41,13 @@ There's a 12 word 'secret phrase' associated with the app used as a recovery too
 
 If you forget the password to the Exodus app (or want to install it on another machine) You'll need to use this 12 word phrase.  It is ***VERY IMPORTANT*** that you do not lose this phrase.  If so, you won't ***EVER*** be able to access those funds again (as of this writing, about $5800 USD)
 
+## [Coinbase](https://coinbase.com)
+This is a crypto-currency exchange where I usually purchase/sell crypto currencies.  I've linked my personal checking account here to facilitate ease of these processes.
+Purchases are automatically put into a cloud based Coinbase wallet.  I usually transfer these crypto assets to my Exodus wallet as soon as it's feasible (cost effective).
+
+# Stocks
+## [E-Trade](https://etrade.com)
+I hold a brokerage account here for buying/selling stocks.  It's linked to my personal checking account to facilitate movement of Fiat currency into/out of the account.
+
+## [Robinhood](https://robinhood.com)
+I have a Robinhood account.  The app is installed on my personal Cell phone.  There is one share of some random stock in the account that I received for free as a result of signing up for an account.  There's no real value there (as of this writing, maybe)
