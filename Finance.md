@@ -27,3 +27,7 @@ I previously used it to pay my T-Mobile (previously Sprint) cell phone bill, but
 
 ## Chase Freedom Unlimited
 I'm an authorized user of this card that Liz signed us up for.  There's no account access for authorized users.  All of our joint purchases are made with this card (Bills, dinner out, one-off purchases, home stuff).  Liz manually pays this bill bi-weekly from the [[Finance#[Chase Bank](https //chase.com)|Joint Checking Account]]
+
+## [Lowe's](https://lowes.com)
+I signed up for a Lowe's line of credit when I bought my Delta Table Saw.  Doing so saved me 10% off my purchase at the time.  Also, I save 5% each time I use the card.  I pay this card balance in full manually after each use (either with my personal Checking Account or the Joint Account, based on who the purchase was for :) )
+
