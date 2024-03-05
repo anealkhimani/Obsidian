@@ -51,3 +51,7 @@ Oh my, this is fancy
 >[!check]- Another example
 >```tasks
 >due on or after today
+
+>[!check]- Check out this range, baby
+>```tasks
+>happens this week
