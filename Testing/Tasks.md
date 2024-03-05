@@ -75,3 +75,16 @@ Oh my, this is fancy
 >```tasks
 >due after today
 >tags include #purchase 
+
+### Date filters?
+>[!check]- No Due Dates
+>```tasks
+>no due date
+
+>[!check]- Done date?
+>``` tasks
+>has done date
+>```
+
+
+
