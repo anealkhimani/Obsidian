@@ -4,7 +4,7 @@ tags:
 ---
 
 << <% "[[Daily/" + tp.date.yesterday("YYYY-MM-DD") + "|Yesterday]]" %> | <% "[[Daily/" + tp.date.tomorrow("YYYY-MM-DD") + "|Tomorrow]]" %> >>
-# General Notes
+## General Notes
 ---
 ### What is special about today?
 
@@ -12,7 +12,7 @@ tags:
 
 
 
-# Daily TODO
+## Daily TODO
 ---
 
 

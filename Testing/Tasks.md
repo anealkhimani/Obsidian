@@ -57,6 +57,12 @@ Oh my, this is fancy
 >happens this week
 
 ### Text Filters?
+>[!check]- Filtering by header text
+>This query block searches for tasks that are contained within a section that has a header with the text 'Daily TODO' (the default for my daily notes)
+>```tasks
+>heading includes Daily TODO
+
+
 >[!check]- Heading Text filter
 >```tasks
->heading includes "Daily TODO"
+>heading does not include Daily TODO
