@@ -4,11 +4,6 @@ tags:
 ---
 << <% "[[Daily/" + moment(tp.file.title, 'YYYY-MM-DD').subtract(1, 'd').format('YYYY-MM-DD') + "|Yesterday]]" %> |  <% "[[Daily/" + moment(tp.file.title, 'YYYY-MM-DD').add(1, 'd').format('YYYY-MM-DD') + "|Tomorrow]]" %> >>
 
-
-<< <% "[[Daily/" + tp.date.yesterday("YYYY-MM-DD") + "|Yesterday]]" %> | <% "[[Daily/" + tp.date.tomorrow("YYYY-MM-DD") + "|Tomorrow]]" %> >>
-
-
-
 ## General Notes
 ---
 ### What is special about today?
