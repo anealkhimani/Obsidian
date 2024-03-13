@@ -3,8 +3,8 @@ tags:
     - dashboard
 cssclass: dashboard
 ---
-# To Do:
-
+# Tasks
+- ## Due
 ```tasks
 not done
 sort by due
