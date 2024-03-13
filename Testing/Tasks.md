@@ -11,13 +11,13 @@ I opted _not_ to use a global identifier with the tasks.  I'm told in the docume
 
 ### Below is a list of tasks.  We're going to try to use the tasks plugin to do fun stuff
 
-- [ ] Get busy with the stuff
-- [ ] Walk the dog  [due:: 2024-03-05]
-- [ ] Try the veal, and the hotkey shortcut
+- [x] Get busy with the stuff  [completion:: 2024-03-13]
+- [x] Walk the dog  [due:: 2024-03-05]  [completion:: 2024-03-13]
+- [x] Try the veal, and the hotkey shortcut  [completion:: 2024-03-13]
 - [ ] Use the Dataview Format  [due:: 2024-03-11] [priority:: high ]
-- [ ] On restart and after a setting change, now there's create dates automatically added.  But I'm not seeing it happen
-- [ ] Looks like you have to use the modal to add an automatic Created Date  [created:: 2024-03-04]
-- [ ] #purchase Buy some chickens with poison interlaced with the meat [due:: 2024-03-10 ]
+- [x] On restart and after a setting change, now there's create dates automatically added.  But I'm not seeing it happen  [completion:: 2024-03-13]
+- [x] Looks like you have to use the modal to add an automatic Created Date  [created:: 2024-03-04]  [completion:: 2024-03-13]
+- [x] #purchase Buy some chickens with poison interlaced with the meat  [due:: 2024-03-10]  [completion:: 2024-03-13]
 
 
 

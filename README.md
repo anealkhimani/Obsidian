@@ -14,8 +14,8 @@ tags:
 ![Aneal|120](https://anealkhimani.com/assets/img/avatar2.jpg)
 
 ### Can we make a checklist?  WE CAN!
-- [ ] Aneal is special
-- [ ] Aneal is the best
+- [x] Aneal is special  [completion:: 2024-03-13]
+- [x] Aneal is the best  [completion:: 2024-03-13]
 - [x] I wake up, piss excellence
 
 

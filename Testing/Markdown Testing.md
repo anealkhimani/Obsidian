@@ -36,9 +36,9 @@ Ordered lists begin with numbers and periods followed by a space
 3. Get to the Choppa
 
 And checklists?  use `Ctrl + l`
-- [ ] good
-- [ ] better
-- [ ] best [type::purchase]
+- [x] good  [completion:: 2024-03-13]
+- [x] better  [completion:: 2024-03-13]
+- [x] best [type::purchase]  [completion:: 2024-03-13]
 
 
 ### Links
