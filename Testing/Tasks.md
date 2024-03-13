@@ -33,6 +33,12 @@ As you can see, the ones we created up above show up in the list below.  This qu
 ```tasks
 ```
 
+### Here's some tests
+```tasks
+tags include #purchase 
+short mode
+```
+
 
 
 ### Here's a query wrapped in a collapsed callout
