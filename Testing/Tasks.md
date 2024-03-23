@@ -19,6 +19,7 @@ I opted _not_ to use a global identifier with the tasks.  I'm told in the docume
 - [x] Looks like you have to use the modal to add an automatic Created Date  [created:: 2024-03-04]  [completion:: 2024-03-13]
 - [x] #purchase Buy some chickens with poison interlaced with the meat  [due:: 2024-03-10]  [completion:: 2024-03-13]
 
+- [ ] #purchase Get a drill press  [created:: 2024-03-13]
 
 
 > [!info] 
