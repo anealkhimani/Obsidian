@@ -12,3 +12,6 @@ This service is used to enable us to connect to this Docker container running lo
 ## Bosch Home Connect
 This is an integration in Home Assistant that allows for control/sensors connected to appliances in the Bosch family (Our DIshwasher)
 The integration required creating a developer account with Bosch, Adding an 'application' and locating/using their provided 0Auth2 client_id/Secret in Home Assistant to make all the things sync up. [Check Here](https://developer.home-connect.com/) for info about that
+
+
+## Template 
