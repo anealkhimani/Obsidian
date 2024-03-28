@@ -14,4 +14,14 @@ This is an integration in Home Assistant that allows for control/sensors connect
 The integration required creating a developer account with Bosch, Adding an 'application' and locating/using their provided 0Auth2 client_id/Secret in Home Assistant to make all the things sync up. [Check Here](https://developer.home-connect.com/) for info about that
 
 
-## Template 
+## Template Stuff
+Here's a nice one that lists all domains and all entities in that domain.
+Useful in the `Developer Tools>Template` section:
+```
+{% for d in states | groupby('domain') %}
+  {% if loop.first %} Domains: {{loop.length}}
+  {% endif %} - {{ d[0] }} ({{ states[d[0]] | count }})
+      - {{ states[d[0]] |map(attribute='entity_id')| list|join('\n      - ') }}
+{% endfor %}
+```
+
