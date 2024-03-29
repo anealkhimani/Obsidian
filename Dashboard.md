@@ -7,7 +7,7 @@ cssclass: dashboard
 - ## Due
 	```tasks
 	not done
-	sort by due
+	sort by priority
 	short mode
 	```
 
