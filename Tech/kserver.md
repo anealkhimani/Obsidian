@@ -9,10 +9,12 @@ tags:
 # kserver
 Host Information:
 
-| Machine Name: | kserver       |
-| ------------- | ------------- |
-| IP Address:   | 192.168.1.207 |
-| MAC Address:  |               |
+| Machine Name:                | kserver           |
+| ---------------------------- | ----------------- |
+| IP Address:                  | 192.168.1.207     |
+| MAC Address:                 | 98:90:96:a3:18:4b |
+| Admin:                       | anealkhimani      |
+| Date of this Documentation:  |                   |
 
 ## Description
 #kserver is a computer on our [[Elgin]] dr. Home network.  
