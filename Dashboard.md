@@ -5,7 +5,7 @@ cssclass: dashboard
 ---
 # Tasks
 - ## Due
-	 ```tasks
+	```tasks
 	not done
 	sort by due
 	short mode
@@ -16,4 +16,5 @@ cssclass: dashboard
 	```tasks
 	not done
 	tags include #purchase 
+	short mode
 	```
