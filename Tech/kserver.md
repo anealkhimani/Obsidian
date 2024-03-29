@@ -24,6 +24,6 @@ Its job is to serve applications and do chores to make life easier for Liz and m
 Currently, it's running most of it's automations/applications utilizing #docker as a containerization platform.  
 
 ## [Hardening Checklist](https://www.pluralsight.com/blog/it-ops/linux-hardening-secure-server-checklist)
-- Machine Name: kserver
-- IP Address: 
+- [ ] Enable a BIOS password on [[kserver]] [priority:: medium]  [created:: 2024-03-29]  [due:: 2024-04-01]
+- [ ] Disable Booting from removable media in BIOS  [priority:: medium]  [created:: 2024-03-29]  [due:: 2024-04-01]
 
