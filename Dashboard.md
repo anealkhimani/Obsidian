@@ -11,8 +11,9 @@ cssclass: dashboard
 	short mode
 	```
 
+
 - ## Purchases
-```tasks
+	```tasks
 	not done
 	tags include #purchase 
-```
+	```
