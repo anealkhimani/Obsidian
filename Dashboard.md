@@ -12,7 +12,7 @@ cssclass: dashboard
 	```
 
 - ## Purchases
-	```tasks
+```tasks
 	not done
 	tags include #purchase 
 ```
