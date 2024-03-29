@@ -6,15 +6,15 @@ tags:
     - hardware
     - software
 ---
-# kserver
-Host Information:
+# Machine Information
 
-| Machine Name:                | kserver           |
-| ---------------------------- | ----------------- |
-| IP Address:                  | 192.168.1.207     |
-| MAC Address:                 | 98:90:96:a3:18:4b |
-| Admin:                       | anealkhimani      |
-| Date of this Documentation:  |                   |
+| Machine Name:               | kserver                                                              |
+| --------------------------- | -------------------------------------------------------------------- |
+| IP Address:                 | 192.168.1.207                                                        |
+| MAC Address:                | 98:90:96:a3:18:4b                                                    |
+| Admin:                      | anealkhimani                                                         |
+| Date of this Documentation: | `$= dv.current().file.ctime.toLocaleString(DateTime.DATETIME_SHORT)` |
+| Asset #:                    | None                                                                 |
 
 ## Description
 #kserver is a computer on our [[Elgin]] dr. Home network.  
