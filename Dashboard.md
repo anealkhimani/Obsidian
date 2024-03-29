@@ -2,6 +2,7 @@
 tags:
     - dashboard
 cssclass: dashboard
+obsidianUIMode: preview
 ---
 # Tasks
 - ## Due
