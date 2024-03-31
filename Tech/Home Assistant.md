@@ -25,3 +25,6 @@ Useful in the `Developer Tools>Template` section:
 {% endfor %}
 ```
 
+
+## [[Zigbee2mqtt]]
+This app is responsible for finding the Zigbee devices on the network and exposing them to Home Assistant.
