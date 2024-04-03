@@ -1,7 +1,7 @@
 ---
 tags:
   yaml
-  zigbee2mqtt
+  zigbee
   docker
 ---
 
