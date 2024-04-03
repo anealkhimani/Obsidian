@@ -59,3 +59,20 @@ Here's the section from my docker-compose.yaml #yaml:
     volumes:
       - /home/anealkhimani/docker/mosquitto:/mosquitto
 ```
+
+Below is the Zigbee2mqtt `configuration.yaml` file I created to continue the installation: #yaml 
+```
+permit_join: true
+homeassistant: true
+mqtt:
+  base_topic: zigbee2mqtt
+  server: mqtt://mosquitto
+serial:
+  port: /dev/ttyACM0
+frontend: true
+advanced:
+  network_key: GENERATE
+```
+
+You'll notice that there's some small deviations from the documentation.  Namely, we treat the `frontend` key as a boolean and mark it as 'true' and omit the `port` subkey
+Also, we set the `mqtt>server` key to value `mqtt://mosquitto`.  We do this because that's the name we gave to the container in the `docker-compose.yaml` above, and docker treats this kind of like a hostname for the container.  Also of course, the serial address of the USB dongle is unique to my setup `/dev/ttyACM0`
