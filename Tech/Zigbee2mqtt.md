@@ -18,3 +18,37 @@ That service began constant communication with the dongle, which made it unavail
 (or some such)
 
 The deconz service is the culprit.  Stop that service and the container restarts, error free.
+
+## Installation
+If you follow closely the instructions on the getting started section of the website (mostly the [Docker Compose Example](https://www.zigbee2mqtt.io/guide/getting-started/#installation)) provided there, you'll see what you need to do.  During the "Let's create a configuration.yaml" file part, you'll need to compensate for the fact that Home Assistant is going to be listening for incoming MQTT packets from this application by adding the `homeassistant: true` directive in there.
+You'll also notice that the link above provides a MQTT service in the docker-compose file as well to spin up an eclipse-mosquitto container.  This is also a pre-requisite (duh), and it shows a working example.  You may need to tweak it slightly.
+
+Here's the section from my docker-compose.yaml:
+```
+# Zigbee2mqtt
+  zigbee2mqtt:
+    container_name: zigbee2mqtt
+    image: koenkk/zigbee2mqtt
+    restart: unless-stopped
+    volumes:
+      - /home/anealkhimani/docker/home/zigbee2mqtt:/app/data
+      - /run/udev:/run/udev:ro
+    ports:
+      - 8888:8080
+    environment:
+      - TZ=America/New_York
+    devices:
+      - /dev/ttyACM0:/dev/ttyACM0
+
+  # Mosquitto
+  mosquitto:
+    container_name: mosquitto
+    image: eclipse-mosquitto:2.0
+    restart: unless-stopped
+    command: "mosquitto -c /mosquitto-no-auth.conf"
+    ports:
+      - 1883:1883
+      - 9001:9001
+    volumes:
+      - /home/anealkhimani/docker/mosquitto:/mosquitto
+```
