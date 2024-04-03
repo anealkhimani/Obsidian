@@ -13,8 +13,7 @@ This service is used to enable us to connect to this Docker container running lo
 This is an integration in Home Assistant that allows for control/sensors connected to appliances in the Bosch family (Our DIshwasher)
 The integration required creating a developer account with Bosch, Adding an 'application' and locating/using their provided 0Auth2 client_id/Secret in Home Assistant to make all the things sync up. [Check Here](https://developer.home-connect.com/) for info about that
 
-
-## Template Stuff
+## Template Stuff #template
 Here's a nice one that lists all domains and all entities in that domain.
 Useful in the `Developer Tools>Template` section:
 ```
@@ -25,6 +24,15 @@ Useful in the `Developer Tools>Template` section:
 {% endfor %}
 ```
 
+This one will call the tts service and say a random phrase.  Will be useful once I figure out how to notify myself of stuff
+```
+service: tts.cloud_say
+data:
+  cache: false
+  entity_id: media_player.basement_display
+  message: >
+    {{ ["test 1", "doober", "i cant build a cat", "I design and build shrubberies", "someone has beaten a giant here"] | random }}
 
+```
 ## [[Zigbee2mqtt]]
 This app is responsible for finding the Zigbee devices on the network and exposing them to Home Assistant.
