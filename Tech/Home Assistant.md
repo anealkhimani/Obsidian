@@ -52,4 +52,16 @@ The integration _seems_ to work?  It appears that my Gmail settings automaticall
 HA has an integration for our robot vacuum.  Once the integration is added, several sensors are added to HA that let you track things like last_cleaning, error_codes, etc.
 Several services are exposed as well, which will technically allow you to send the robot to go do cleaning in specific rooms.  Check the information [here](https://www.home-assistant.io/integrations/roborock/) for more info.
 Basically, you need to enable Debug Logging for the integration in HA.  Then, reload the integration.  Once reloaded, inspect the logs for HA to find the 'Got home data' section.  Here, there'll be a 'rooms' array containing the names/IDs of the rooms you've defined in the Roborock app.
-Use these ID's to discern the room mapping 
+Use these ID's to discern the room mapping. _(check the table below)_
+
+| HomeDataRoom ID | Room Name      | 2-digit ID |
+| --------------- | -------------- | ---------- |
+| 5103121         | Office         |            |
+| 3883732         | Dining room    |            |
+| 3883730         | Master bedroom |            |
+| 3883729         | Guest bedroom  |            |
+| 3883728         | Bathroom       |            |
+| 3883727         | Living room    |            |
+| 3883725         | Hall           |            |
+| 3883724         | Kitchen        |            |
+ 
