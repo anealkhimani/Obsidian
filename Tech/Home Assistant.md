@@ -58,10 +58,10 @@ Use these ID's to discern the room mapping. _(check the table below)_
 | --------------- | -------------- | ---------- |
 | 5103121         | Office         |            |
 | 3883732         | Dining room    |            |
-| 3883730         | Master bedroom |            |
-| 3883729         | Guest bedroom  |            |
-| 3883728         | Bathroom       |            |
+| 3883730         | Master bedroom | 16         |
+| 3883729         | Guest bedroom  | 17         |
+| 3883728         | Bathroom       | 19         |
 | 3883727         | Living room    |            |
 | 3883725         | Hall           |            |
-| 3883724         | Kitchen        |            |
+| 3883724         | Kitchen        | 21         |
  
