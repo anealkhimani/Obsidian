@@ -44,3 +44,5 @@ I've set up access to the [Mail and Packages integration](https://github.com/mor
 As part of the setup, I had to create an app password for Google to allow the integration to view my email.  the App Name and #password are:
 > [!info]- HomeAssistant Mail & Packages
 > kdzb hsly zinc wvfc
+
+The integration _seems_ to work?  It appears that my Gmail settings automatically move incoming USPS emails into 
