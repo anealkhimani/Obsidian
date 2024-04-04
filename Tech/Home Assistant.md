@@ -16,7 +16,7 @@ The integration required creating a developer account with Bosch, Adding an 'app
 ## Template Stuff 
 Here's a nice #template that lists all domains and all entities in that domain.
 Useful in the `Developer Tools>Template` section:
-```
+```jinja
 {% for d in states | groupby('domain') %}
   {% if loop.first %} Domains: {{loop.length}}
   {% endif %} - {{ d[0] }} ({{ states[d[0]] | count }})
@@ -25,7 +25,7 @@ Useful in the `Developer Tools>Template` section:
 ```
 
 This #template will call the tts service and say a random phrase.  Will be useful once I figure out how to notify myself of stuff
-```
+```yaml
 service: tts.cloud_say
 data:
   cache: false

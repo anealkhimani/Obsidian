@@ -31,7 +31,7 @@ If you follow closely the instructions on the getting started section of the web
 You'll also notice that the link above provides a MQTT service in the docker-compose file as well to spin up an eclipse-mosquitto container.  This is also a pre-requisite (duh), and it shows a working example.  You may need to tweak it slightly.
 
 Here's the section from my docker-compose.yaml #yaml:
-```
+```yaml
 # Zigbee2mqtt
   zigbee2mqtt:
     container_name: zigbee2mqtt
@@ -61,7 +61,7 @@ Here's the section from my docker-compose.yaml #yaml:
 ```
 
 Below is the Zigbee2mqtt `configuration.yaml` file I created to continue the installation: #yaml 
-```
+```yaml
 permit_join: true
 homeassistant: true
 mqtt:
