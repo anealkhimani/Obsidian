@@ -56,12 +56,12 @@ Use these ID's to discern the room mapping. _(check the table below)_
 
 | HomeDataRoom ID | Room Name      | 2-digit ID |
 | --------------- | -------------- | ---------- |
-| 5103121         | Office         |            |
-| 3883732         | Dining room    |            |
+| 5103121         | Office         | 18         |
+| 3883732         | Dining room    | 20         |
 | 3883730         | Master bedroom | 16         |
 | 3883729         | Guest bedroom  | 17         |
 | 3883728         | Bathroom       | 19         |
-| 3883727         | Living room    |            |
-| 3883725         | Hall           |            |
+| 3883727         | Living room    | 22         |
+| 3883725         | Hall           | 23         |
 | 3883724         | Kitchen        | 21         |
  
