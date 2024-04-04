@@ -42,4 +42,5 @@ This app is responsible for finding the Zigbee devices on the network and exposi
 ## Email Things
 I've set up access to the Mail and Packages integration into Home Assistant.  This integration watches your inbox for emails from specific providers (USPS, UPS, FedEx) and adds sensor data in HA when it sees that you've got packages arriving.
 As part of the setup, I had to create an app password for Google to allow the integration to view my email.  the App Name and #password are:
-`HomeAssistant Mail & Packages: kdzb hsly zinc wvfc`
+> [!info]- HomeAssistant Mail & Packages
+> kdzb hsly zinc wvfc
