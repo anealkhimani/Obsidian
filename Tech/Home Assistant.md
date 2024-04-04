@@ -64,4 +64,16 @@ Use these ID's to discern the room mapping. _(check the table below)_
 | 3883727         | Living room    | 22         |
 | 3883725         | Hall           | 23         |
 | 3883724         | Kitchen        | 21         |
- 
+ A possible service call could look like below:
+ ```yaml
+service: vacuum.send_command
+data:
+  command: app_segment_clean
+  params:
+    - segments:
+        - 22
+        - 23
+      repeat: 2
+target:
+  entity_id: vacuum.s7_roborock
+```
