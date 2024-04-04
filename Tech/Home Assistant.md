@@ -13,8 +13,8 @@ This service is used to enable us to connect to this Docker container running lo
 This is an integration in Home Assistant that allows for control/sensors connected to appliances in the Bosch family (Our DIshwasher)
 The integration required creating a developer account with Bosch, Adding an 'application' and locating/using their provided 0Auth2 client_id/Secret in Home Assistant to make all the things sync up. [Check Here](https://developer.home-connect.com/) for info about that
 
-## Template Stuff #template
-Here's a nice one that lists all domains and all entities in that domain.
+## Template Stuff 
+Here's a nice #template that lists all domains and all entities in that domain.
 Useful in the `Developer Tools>Template` section:
 ```
 {% for d in states | groupby('domain') %}
@@ -24,7 +24,7 @@ Useful in the `Developer Tools>Template` section:
 {% endfor %}
 ```
 
-This one will call the tts service and say a random phrase.  Will be useful once I figure out how to notify myself of stuff
+This #template will call the tts service and say a random phrase.  Will be useful once I figure out how to notify myself of stuff
 ```
 service: tts.cloud_say
 data:
@@ -36,3 +36,10 @@ data:
 ```
 ## [[Zigbee2mqtt]]
 This app is responsible for finding the Zigbee devices on the network and exposing them to Home Assistant.
+
+
+
+## Email Things
+I've set up access to the Mail and Packages integration into Home Assistant.  This integration watches your inbox for emails from specific providers (USPS, UPS, FedEx) and adds sensor data in HA when it sees that you've got packages arriving.
+As part of the setup, I had to create an app password for Google to allow the integration to view my email.  the App #password is:
+`HomeAssistant Mail & Pakdzb hsly zinc wvfc`
