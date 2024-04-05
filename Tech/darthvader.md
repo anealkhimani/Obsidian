@@ -10,9 +10,9 @@ tags:
 
 | Platform _(notebook/laptop/Pi/ESP etc.)_ | Desktop (Dell Optiplex 7020) |
 | ---------------------------------------- | ---------------------------- |
-| Form Factor                              |                              |
-| Hostname                                 |                              |
-| OS                                       |                              |
+| Form Factor                              | Mini ATX                     |
+| Hostname                                 | darthvader                   |
+| OS                                       | Ubuntu 20.04.3 (Focal Fossa) |
 | Processor Type                           |                              |
 | RAM                                      |                              |
 | HD1                                      |                              |
