@@ -8,6 +8,11 @@ tags:
 Linux is a computer operating system.  I'm currently running that OS on both my daily driver ([[darthvader | hostname: darthvader]]) and [[kserver | our media server]] .
 
 
+## System Information
+Lot's can be discovered using the `dmidecode` app.
+It requires sudo privileges
+
+
 ## Processor
 You can gather processor information thusly:
 ```
