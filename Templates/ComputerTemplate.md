@@ -10,6 +10,7 @@ tags:
 
 | Platform _(notebook/laptop/Pi/ESP etc.)_ |     |
 | ---------------------------------------- | --- |
+| Form Factor                              |     |
 | Hostname                                 |     |
 | OS                                       |     |
 | Processor Type                           |     |
