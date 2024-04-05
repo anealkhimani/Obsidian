@@ -19,7 +19,6 @@ tags:
 | HD2                                      |     |
 | HD3                                      |     |
 | HD4                                      |     |
-| IP Method                                |     |
 | IP Address                               |     |
 | Physical Location                        |     |
 
