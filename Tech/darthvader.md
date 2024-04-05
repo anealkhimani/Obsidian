@@ -19,12 +19,17 @@ tags:
 | HD2                                      |                                                                                                                                                                                                                                                                    |
 | HD3                                      |                                                                                                                                                                                                                                                                    |
 | HD4                                      |                                                                                                                                                                                                                                                                    |
-| IP Method                                |                                                                                                                                                                                                                                                                    |
-| IP Address                               |                                                                                                                                                                                                                                                                    |
-| Physical Location                        |                                                                                                                                                                                                                                                                    |
+| IP Address                               | 192.168.1.169 (Allocated at Router)                                                                                                                                                                                                                                |
+| Physical Location                        | Basement Desk                                                                                                                                                                                                                                                      |
 
 ## Notes
 ---
+This is my daily driver.  I recently swapped machines.  I turned my old daily driver into [[kserver]] and turned old kserver into this machine [[darthvader]]
+
+
+## History
+---
+
 
 
 
