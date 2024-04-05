@@ -75,4 +75,4 @@ This subscription allows for Cloud connection to our [[Home Assistant]] instance
 This subscription allows access to the IRC newsgroups.  I believe it's $15/monthly, and again, I'm not sure where this is funded from.
 
 ## [Arlo](https://my.arlo.com)
-We have a subscription to Arlo for our security camera setup.  This subscription comes as a requirement for cloud recording of video and the full use of the 6 cameras we have connected to our setup.  
+We have a subscription to [Arlo Secure](https://my.arlo.com/#/settings/subscription/) for our security camera setup.  This subscription comes as a requirement for cloud recording of video and the full use of the 6 cameras we have connected to our setup.  It appears to be $12.00/monthly + tax (which is too high, IMHO)  I have plans for moving to PoE cameras and ZoneMinder (etc) eventually
