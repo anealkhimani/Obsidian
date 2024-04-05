@@ -14,6 +14,12 @@ Liz banks here.  She holds a personal Checking Account at Wells Fargo
 
 
 # Utilities
+### Dekalb Water Authority
+### Georgia Power
+
+### AT&T
+
+### Gas South
 
 
 # Credit Cards
