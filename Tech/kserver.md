@@ -44,3 +44,8 @@ etc.
 - [ ] Enable a BIOS password on [[kserver]] [priority:: medium]  [created:: 2024-03-29]  [due:: 2024-04-01]
 - [ ] Disable Booting from removable media in BIOS  [priority:: medium]  [created:: 2024-03-29]  [due:: 2024-04-01]
 
+## History
+---
+>[!note]- [[2024-04-05]]
+>- Began running 2 of 3 new HD tests before installing
+
