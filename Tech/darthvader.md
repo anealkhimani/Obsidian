@@ -12,7 +12,7 @@ tags:
 | ---------------------------------------- | ---------------------------- |
 | Hostname                                 | darthvader                   |
 | OS                                       | Ubuntu 20.04.3 (Focal Fossa) |
-| Processor Type                           |                              |
+| Processor Type                           | Intel Core i3-4150 @ 3.5GHz  |
 | RAM                                      |                              |
 | HD1                                      |                              |
 | HD2                                      |                              |
