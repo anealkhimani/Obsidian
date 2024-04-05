@@ -14,11 +14,9 @@ Liz banks here.  She holds a personal Checking Account at Wells Fargo
 
 
 # Utilities
----
 
 
 # Credit Cards
----
 ## [Capital One](https://capitalone.com)
 Aneal makes all his persona purchases using this card.  He earns cash-back on all purchases
 Each Thursday (Payday) I pay my balance on this card in full from my [[Finance#[Chase Bank](https //chase.com) | Chase Checking Account]]
@@ -40,7 +38,6 @@ I signed up for a Lowe's line of credit when I bought my Delta Table Saw.  Doing
 
 
 # Crypto Currency
----
 ## [Exodus](https://exodus.com)
 I'm currently using Exodus as a Software based Crypto Currency Wallet.  It's installed on my home machine and my work machine and phone.
 
@@ -53,7 +50,6 @@ This is a crypto-currency exchange where I usually purchase/sell crypto currenci
 Purchases are automatically put into a cloud based Coinbase wallet.  I usually transfer these crypto assets to my Exodus wallet as soon as it's feasible (cost effective).
 
 # Stocks
----
 ## [E-Trade](https://etrade.com)
 I hold a brokerage account here for buying/selling stocks.  It's linked to my personal checking account to facilitate movement of Fiat currency into/out of the account.
 
@@ -62,13 +58,11 @@ I have a Robinhood account.  The app is installed on my personal Cell phone.  Th
 
 
 # Retirement
----
 ## [Principal](https://accounts.principal.com/)
 I currently (`dv: this.file.ctime`) hold a Roth-IRA and a traditional 401(k) account here.  
 
 
 # Other
----
 ## HSA ([Bend](https://user.bendhsa.com/#/))
 Currently (`dv: this.file.ctime`) I contribute $30/pay period towards my Healthcare Savings Account.  The balance there is roughly $7000 USD
 
@@ -77,7 +71,6 @@ On 6/21/2023 I enrolled for an HSA Investment account which allows me to invest 
 
 
 # Subscriptions
----
 ### [[Home Assistant|Nabu Casa]]: 
 This subscription allows for Cloud connection to our [[Home Assistant]] instance.  Currently it's $6/monthly, I'm not sure where it's funded from, maybe the Banana stand?
 ### [Newshosting](https://controlpanel.newshosting.com/customer/index.php)
