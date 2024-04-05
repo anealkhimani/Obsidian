@@ -1,11 +1,46 @@
 ---
 tags:
-    - kserver
-    - Elgin
-    - Linux
-    - hardware
-    - software
+  - kserver
+  - Elgin
+  - Linux
+  - hardware
+  - software
+  - computer
+  - OS
 ---
+
+## Base Info
+---
+
+| Platform _(notebook/laptop/Pi/ESP etc.)_ | Desktop (Dell OptiPlex 7010)                      |
+| ---------------------------------------- | ------------------------------------------------- |
+| Form Factor                              | Tower                                             |
+| Hostname                                 | kserver                                           |
+| OS                                       | Debian GNU/Linux 12 (bookworm)                    |
+| Processor Type                           | Intel Core i5-3470 @3.2GHz                        |
+| RAM                                      | 4 x 4GB DIMM DDR3 @ 1333 MT/s                     |
+| HD1 (Boot/OS)                            | Samsung SSD 870 1TB<br>/dev/sdb                   |
+| HD2                                      | (Will Hold SeaGate IronWolf 12TB)                 |
+| HD3                                      | (Will Hold SeaGate IronWolf 12TB)                 |
+| HD4                                      | (Will Hold SeaGate IronWolf 12TB)                 |
+| IP Address                               | 192.167.1.207 (**FIxed** Allocated at router)     |
+| Physical Location                        | Basement in Cabinet beneath [[Elgin]] Power Panel |
+
+## Notes
+---
+Serves as a... server?
+Currently runs several #docker containers to serve things like
+- [[Plex]]
+- [[Home Assistant]]
+- [[Sonarr]]
+- [[Radarr]]
+etc.
+
+
+
+## TODO
+---
+
 # Machine Information
 
 | Machine Name:               | kserver                                                              |

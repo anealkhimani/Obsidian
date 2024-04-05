@@ -6,7 +6,6 @@ tags:
 ---
 
 ## Base Info
----
 
 | Platform _(notebook/laptop/Pi/ESP etc.)_ | Desktop (Dell Optiplex 7020)                            |
 | ---------------------------------------- | ------------------------------------------------------- |
@@ -39,3 +38,9 @@ The new machine has a spare SATA data port on the motherboard, but doesn't have 
 
 
 ## History
+---
+> [!note]- [[2024-04-05]]
+> - Created this!
+
+
+
