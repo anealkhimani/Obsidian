@@ -32,7 +32,9 @@ System Information
 Here you can see we got the Manufacturer, the Product Name, Dell's Asset ID (Serial Number) and more.
 
 Installed RAM can be inspected with:
-`sudo dmidecode -t 17`
+```
+sudo dmidecode -t 17
+```
 This will show total installed RAM, Types, Capacity, Form Factor, Slot (Locator), Speed and more.  _(the output is large so I'm skipping it here)_
 
 You can inspect the various 'types' by [RTFM](https://www.dictionary.com/browse/rtfm)
@@ -53,7 +55,11 @@ If you're only interested in the architecture of the CPU:
 On [[Alan Shiflett | Alan's]] recommendation, I run some basic testing on hard drives before installing them permanently in a computer.
 I recently bought 3 x 12TB Seagate IronWolf drives to expand [[kserver]].
 Before installing them, I connected each to an external SATA device and ran:
-`smartctl -t long /dev/sd?`
+
+```
+smartctl -t long /dev/sd?
+```
+
 _(of course, replacing the ? above with the actual device filename.)_
 
 This command should be run against an _unmounted_ disk and will take a considerable length of time (~17 hours for each disk)
