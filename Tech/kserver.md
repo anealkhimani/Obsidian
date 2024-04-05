@@ -15,6 +15,7 @@ tags:
 | Admin:                      | anealkhimani                                                         |
 | Date of this Documentation: | `$= dv.current().file.ctime.toLocaleString(DateTime.DATETIME_SHORT)` |
 | Asset #:                    | None                                                                 |
+| OS                          | Debian GNU/Linux 12 (bookworm)                                       |
 
 ## Description
 #kserver is a computer on our [[Elgin]] dr. Home network.  
