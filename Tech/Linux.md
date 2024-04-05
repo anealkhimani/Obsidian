@@ -31,12 +31,6 @@ System Information
 ```
 Here you can see we got the Manufacturer, the Product Name, Dell's Asset ID (Serial Number) and more.
 
-Installed RAM can be inspected with:
-```
-sudo dmidecode -t 17
-```
-This will show total installed RAM, Types, Capacity, Form Factor, Slot (Locator), Speed and more.  _(the output is large so I'm skipping it here)_
-
 You can inspect the various 'types' by [RTFM](https://www.dictionary.com/browse/rtfm)
 
 
@@ -64,3 +58,11 @@ _(of course, replacing the ? above with the actual device filename.)_
 
 This command should be run against an _unmounted_ disk and will take a considerable length of time (~17 hours for each disk)
 
+
+## Memory
+---
+Installed RAM can be inspected with:
+```
+sudo dmidecode -t 17
+```
+This will show total installed RAM, Types, Capacity, Form Factor, Slot (Locator), Speed and more.  _(the output is large so I'm skipping it here)_

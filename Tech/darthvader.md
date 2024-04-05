@@ -13,8 +13,8 @@ tags:
 | Form Factor                              | Mini ATX                     |
 | Hostname                                 | darthvader                   |
 | OS                                       | Ubuntu 20.04.3 (Focal Fossa) |
-| Processor Type                           |                              |
-| RAM                                      |                              |
+| Processor                                | Intel Core i3-4150 @ 3.50GHz |
+| RAM                                      | 4 x 8GB DIMM DDR3, 1600 MT/s |
 | HD1                                      |                              |
 | HD2                                      |                              |
 | HD3                                      |                              |
