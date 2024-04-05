@@ -59,8 +59,20 @@ I currently (`dv: this.file.ctime`) hold a Roth-IRA and a traditional 401(k) acc
 
 
 # Other
+---
 ## HSA ([Bend](https://user.bendhsa.com/#/))
-Currently (`dv: this.file.ctime`) I contribute $30 USD per pay period towards my Healthcare Savings Account.  The balance there is roughly $7000 USD
+Currently (`dv: this.file.ctime`) I contribute $30/pay period towards my Healthcare Savings Account.  The balance there is roughly $7000 USD
 
 On 6/21/2023 I enrolled for an HSA Investment account which allows me to invest my HSA balance into securities.  I have not allocated these funds yet...
 - [ ] Invest my HSA funds into a Security, since I can...  [created:: 2024-03-05]  [due:: 2024-05-01]
+
+
+# Subscriptions
+---
+### [[Home Assistant|Nabu Casa]]: 
+This subscription allows for Cloud connection to our [[Home Assistant]] instance.  Currently it's $6/monthly, I'm not sure where it's funded from, maybe the Banana stand?
+### [Newshosting](https://controlpanel.newshosting.com/customer/index.php)
+This subscription allows access to the IRC newsgroups.  I believe it's $15/monthly, and again, I'm not sure where this is funded from.
+
+## [Arlo](https://my.arlo.com)
+We have a subscription to Arlo for our security camera setup.  This subscription comes as a requirement for cloud recording of video and the full use of the 6 cameras we have connected to our setup.  

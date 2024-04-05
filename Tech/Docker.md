@@ -17,3 +17,5 @@ Conversely, you can redirect the output from the log file into a local file thus
 ```bash
 docker logs <container_name> &> ~/some/local/file
 ```
+
+
