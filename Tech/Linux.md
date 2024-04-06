@@ -5,7 +5,7 @@ tags:
 ---
 
 # What:
-Linux is a computer operating system.  I'm currently running that OS on both my daily driver ([[darthvader | hostname: darthvader]]) and [[kserver | our media server]] .
+Linux is a computer operating system.  I'm currently running that OS on both my daily driver [[darthvader]] and [[kserver | our media server]] .
 
 
 ## General System Information
