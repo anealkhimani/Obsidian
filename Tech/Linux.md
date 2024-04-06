@@ -72,8 +72,20 @@ Before installing them, I connected each to an external SATA device and ran:
 ```
 smartctl -t long /dev/sd?
 ```
-
 _(of course, replacing the ? above with the actual device filename.)_
+
+>[!info]- Hey, there's a better way!
+>Turns out if you're using a drive plugged into a USB port to do this check, it could time out and show as 'Cancelled by Host'
+>To avoid this:
+>```
+>sudo watch -d--cumulative -n 30 smartctl -a /dev/sd?
+>```
+> Then, in another terminal window run this:
+> ```
+> sudo smartctl -t long /dev/sd?
+> ```
+> The 'watch' command will call the 'show me the drive status' command every 30 seconds (change this if you like to something else)
+> The second command runs the long test as normal.  This will keep the HD active while the test commences and thus, no timeout
 
 This command should be run against an _unmounted_ disk and will take a considerable length of time (~17 hours for each disk)
 
