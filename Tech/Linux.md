@@ -46,25 +46,33 @@ If you're only interested in the architecture of the CPU:
 
 ## Hard Drive
 ---
+#### View Hard Disks
 Some tools to view Hard disks installed on a system that I use are as follows:
 ```shell
 sudo parted -l
 ```
 This one will show disks/partitions and will also provide the device and model data
 Below is the output for [[darthvader]]:
-```bash
-Model: ATA SanDisk SDSSDA-1 (scsi)
-Disk /dev/sda: 1000GB
-Sector size (logical/physical): 512B/512B
-Partition Table: msdos
-Disk Flags:
+>[!info]- View More
+>```bash
+>Model: ATA SanDisk SDSSDA-1 (scsi)
+>Disk /dev/sda: 1000GB
+>Sector size (logical/physical): 512B/512B
+>Partition Table: msdos
+>Disk Flags:
+>Number  Start   End     Size    Type      File system  Flags
+ >1      1049kB  538MB   537MB   primary   fat32        boot
+ >2      539MB   1000GB  1000GB  extended
+ >5      539MB   1000GB  1000GB  logical   ext4
+>```
 
-Number  Start   End     Size    Type      File system  Flags
- 1      1049kB  538MB   537MB   primary   fat32        boot
- 2      539MB   1000GB  1000GB  extended
- 5      539MB   1000GB  1000GB  logical   ext4
-```
+When mounting a HD (using /etc/fstab) you can find the device by using the standard `lsblk` to identify which 'file' location your disk lives at (for example: `/dev/sd?`)
+Once you've found that, you can locate the UUID for the drive with:
+`ls -l /dev/disk/by-uuid` 
+Once you've found the UUID here for the matching device, you can mount it in fstab with the standard method.
 
+
+#### Test Hard Disks
 On [[Alan Shiflett | Alan's]] recommendation, I run some basic testing on hard drives before installing them permanently in a computer.
 I recently bought 3 x 12TB Seagate IronWolf drives to expand [[kserver]].
 Before installing them, I connected each to an external SATA device and ran:
