@@ -13,7 +13,7 @@ Linux is a computer operating system.  I'm currently running that OS on both my 
 Lot's can be discovered using the `dmidecode` app.
 If you pass the `-t` flag, you can then specify a 'type' of data you're interested in and it'll display system information about that type.  Here's some good ones:
 `sudo dmidecode -t 1` will give general machine information:
-```
+```bash
 # dmidecode 3.2
 Getting SMBIOS data from sysfs.
 SMBIOS 2.7 present.
@@ -37,7 +37,7 @@ You can inspect the various 'types' by [RTFM](https://www.dictionary.com/browse/
 ## Processor
 ---
 You can gather processor information thusly:
-```
+```shell
 cat /proc/cpuinfo
 ```
 
@@ -47,7 +47,7 @@ If you're only interested in the architecture of the CPU:
 ## Hard Drive
 ---
 Some tools to view Hard disks installed on a system that I use are as follows:
-```
+```shell
 sudo parted -l
 ```
 This one will show disks/partitions and will also provide the device and model data
@@ -69,7 +69,7 @@ On [[Alan Shiflett | Alan's]] recommendation, I run some basic testing on hard d
 I recently bought 3 x 12TB Seagate IronWolf drives to expand [[kserver]].
 Before installing them, I connected each to an external SATA device and ran:
 
-```
+```shell
 smartctl -t long /dev/sd?
 ```
 _(of course, replacing the ? above with the actual device filename.)_
@@ -93,7 +93,7 @@ This command should be run against an _unmounted_ disk and will take a considera
 ## Memory
 ---
 Installed RAM can be inspected with:
-```
+```shell
 sudo dmidecode -t 17
 ```
 This will show total installed RAM, Types, Capacity, Form Factor, Slot (Locator), Speed and more.  _(the output is large so I'm skipping it here)_
