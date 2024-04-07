@@ -99,7 +99,8 @@ This command should be run against an _unmounted_ disk and will take a considera
 
 
 #### ZFS and Zpool
-So after adding my 3 new 12TB drives to [[kserver]], I needed to figure out how to actually use them
+So after adding my 3 new 12TB drives to [[kserver]], I needed to figure out how to actually use them.  Ultimately I created a `zpool` named media, set a mount point of `/mnt/media` and added the 3 new drives by-id.  I believe this automatically created a ZFS (file system) and mounted it to the mountpoint listed above.  It appears to have worked?  I'll test by copying files out there and looking...
+
 
 ## Memory
 ---
