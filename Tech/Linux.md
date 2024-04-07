@@ -98,6 +98,9 @@ _(of course, replacing the ? above with the actual device filename.)_
 This command should be run against an _unmounted_ disk and will take a considerable length of time (~17 hours for each disk)
 
 
+#### ZFS and Zpool
+So after adding my 3 new 12TB drives to [[kserver]], I needed to figure out how to actually use them
+
 ## Memory
 ---
 Installed RAM can be inspected with:
