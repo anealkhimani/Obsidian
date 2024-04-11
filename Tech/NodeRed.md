@@ -5,7 +5,7 @@ tags:
   - docker
 ---
 # What it is:
-[NodeRed](https://nodered.org) is a web-based, low-code automation application you can use to create workflows.  A high-level conceptual view is that you create a 'Flow' which consists of various 'nodes' .  These two things combined can do fancy things.  For example:
+[NodeRed](https://nodered.org) is a web-based, low-code automation application you can use to create workflows.  A high-level conceptual view is that you create a 'Flow' which consists of various 'nodes' that pass messages through them.  These two things combined can do fancy things.  For example:
 - You could create a flow that has 3 nodes:
 	1. Watch for a file change node
 	2. parse the file's new data
