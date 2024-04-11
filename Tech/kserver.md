@@ -51,3 +51,5 @@ etc.
 
 >[!note]- [[2024-04-07]]
 >Added the Contrib Debian repo to my apt-sources on following the 'alternative 2' command line instructions [here](https://www.linuxcapable.com/how-to-enable-contrib-and-non-free-repos-on-debian-linux/)
+
+>[!note]- <% 
