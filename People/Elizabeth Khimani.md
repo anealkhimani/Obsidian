@@ -4,11 +4,11 @@ tags:
 ---
 ## Notes:
 
-| #address      |     |
-| ------------- | --- |
-| #phone        |     |
-| #birthday     |     |
-| #relationship |     |
+| #address      | [[Elgin]] |
+| ------------- | --------- |
+| #phone        |           |
+| #birthday     |           |
+| #relationship |           |
 
 ## History
 
