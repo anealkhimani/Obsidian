@@ -21,5 +21,5 @@ https://imgoing-prod-api.xyz/api/visitors/DecaturGA/events?page=1&limit=16&categ
 Now it's my URL too!  I'll use it to populate a 'Local Calendar' element in [[Home Assistant]].
 
 
-### Sqlite Nodes
-I installed a node to my pallet named `node-red-node-sqlite` on <%tp moment.today() %>
+## History
+- `$= dv.current().file.mtime`: Added `node-red-node-sqlite` node to my pallet to enable #SQL interaction with a sqlite database.
