@@ -50,6 +50,7 @@ etc.
 >- Began running 2 of 3 new HD tests before installing
 
 >[!note]- [[2024-04-07]]
->Added the Contrib Debian repo to my apt-sources on following the 'alternative 2' command line instructions [here](https://www.linuxcapable.com/how-to-enable-contrib-and-non-free-repos-on-debian-linux/)
+>Added the Contrib Debian repo to my apt-sources on following the 'alternative 2' command line instructions [here](https://www.linuxcapable.com/how-to-enable-contrib-and-non-free-repos-on-debian-linux/)  This was needed because I also installed ZFS (and ZPool Tools) to enable me to create a ZPool for my new hard disks, place the pool into a ZFS RAIDZ configuration etc.
 
->[!note]- <% 
+>[!note]- [[Daily/2024-04-11]]
+>Added Sqlite3 to kserver in order to persist data for simple things.
