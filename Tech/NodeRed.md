@@ -19,3 +19,7 @@ Here's a URL from the Decatur events website.  They use a service called 'imgoin
 https://imgoing-prod-api.xyz/api/visitors/DecaturGA/events?page=1&limit=16&category=All&source=google
 ```
 Now it's my URL too!  I'll use it to populate a 'Local Calendar' element in [[Home Assistant]].
+
+
+### Sqlite Nodes
+I installed a node to my pallet named `node-red-node-sqlite` on <%tp moment.today() %>
