@@ -22,4 +22,4 @@ Now it's my URL too!  I'll use it to populate a 'Local Calendar' element in [[Ho
 
 
 ## History
-- `$= dv.current().file.mtime`: Added `node-red-node-sqlite` node to my pallet to enable #SQL interaction with a sqlite database.
+- [[2024-04-10]]: Added `node-red-node-sqlite` node to my pallet to enable #SQL interaction with a sqlite database.
