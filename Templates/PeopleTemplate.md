@@ -7,8 +7,15 @@ tags:
 | #address      |     |
 | ------------- | --- |
 | #phone        |     |
+| #email        |     |
 | #birthday     |     |
 | #relationship |     |
+
+## Employment
+Company:
+Position:
+Email:
+
 
 ## History
 
