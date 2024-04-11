@@ -24,7 +24,7 @@ Liz banks here.  She holds a personal Checking Account at Wells Fargo
 
 # Credit Cards
 ## [Capital One](https://capitalone.com)
-Aneal makes all his persona purchases using this card.  He earns cash-back on all purchases
+Aneal makes all his personal purchases using this card.  He earns cash-back on all purchases
 Each Thursday (Payday) I pay my balance on this card in full from my [[Finance#[Chase Bank](https //chase.com) | Chase Checking Account]]
 
 ## [American Express](https://americanexpress.com)
