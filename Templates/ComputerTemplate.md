@@ -3,6 +3,7 @@ tags:
   - hardware
   - computer
   - OS
+icon: Computer
 ---
 
 ## Base Info
