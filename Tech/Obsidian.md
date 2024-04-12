@@ -1,8 +1,6 @@
-This exists because I created a link in a Daily note, and then clicked it.  *links are created by surrounding a word with double square brackets*
 
-*Perhaps I should consider learning how this product works?* ^ddc44b
-
-### Optiplex install
+This note exists because I created a link in a Daily note, and then clicked it.  *links are created by surrounding a word with double square brackets*
+### [[darthvader]] install
 ---
 On my home machine, I had to download the AppImage version of this application.  This is basically a way that devs can package the entire application and all dependencies into one file so there's no distribution headaches.  Also, it doesn't need to be installed so no root privileges are required.
 

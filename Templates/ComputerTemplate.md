@@ -3,7 +3,7 @@ tags:
   - hardware
   - computer
   - OS
-icon: Computer
+icon: FasComputer
 ---
 
 ## Base Info

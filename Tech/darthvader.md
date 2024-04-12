@@ -7,19 +7,17 @@ tags:
 
 ## Base Info
 
-| Platform _(notebook/laptop/Pi/ESP etc.)_ | Desktop (Dell Optiplex 7020)                            |
-| ---------------------------------------- | ------------------------------------------------------- |
-| Form Factor                              | Mini ATX                                                |
-| Hostname                                 | darthvader                                              |
-| OS                                       | Ubuntu 20.04.3 (Focal Fossa)                            |
-| Processor                                | Intel Core i3-4150 @ 3.50GHz                            |
-| RAM                                      | 4 x 8GB DIMM DDR3, 1600 MT/s                            |
-| HD1                                      | ATA SanDisk SDSSDA-1 (scsi)<br>/dev/sda: 1000GB         |
-| HD2                                      | (None, Yet, but will add FreeAgent 1.5TB I already own) |
-| HD3                                      |                                                         |
-| HD4                                      |                                                         |
-| IP Address                               | 192.168.1.169 (**Fixed**: Allocated at Router)          |
-| Physical Location                        | Basement Desk                                           |
+| Platform _(notebook/laptop/Pi/ESP etc.)_ | Desktop (Dell Optiplex 7020)                    |
+| ---------------------------------------- | ----------------------------------------------- |
+| Form Factor                              | Mini ATX                                        |
+| Hostname                                 | darthvader                                      |
+| OS                                       | Ubuntu 20.04.3 (Focal Fossa)                    |
+| Processor                                | Intel Core i3-4150 @ 3.50GHz                    |
+| RAM                                      | 4 x 8GB DIMM DDR3, 1600 MT/s                    |
+| HD1                                      | ATA SanDisk SDSSDA-1 (scsi)<br>/dev/sda: 1000GB |
+| HD2                                      | FreeAgent 1.5TB                                 |
+| IP Address                               | 192.168.1.169 (**Fixed**: Allocated at Router)  |
+| Physical Location                        | Basement Desk                                   |
 
 ## Notes
 ---
