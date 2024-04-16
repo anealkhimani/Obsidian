@@ -97,4 +97,4 @@ Yet another.  I cannot remember how we pay for this, but I believe it's automati
 ### Disney +
 Guess what this is for?!
 I don't know what it costs us or how it's paid.  I'll fill this in later
-- [ ] Figure out how Disney + is paid  [priority:: low]  [created:: 2024-04-05]
+- [x] Figure out how Disney + is paid  [priority:: low]  [created:: 2024-04-05]  [completion:: 2024-04-16]
