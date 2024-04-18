@@ -27,7 +27,7 @@ Useful in the `Developer Tools>Template` section:
 {% endfor %}
 ```
 
-This #template will call the tts service and say a random phrase.  Will be useful once I figure out how to notify myself of stuff
+This YAML block will call the tts service and say a random phrase.  Will be useful once I figure out how to notify myself of stuff
 ```yaml
 service: tts.cloud_say
 data:
@@ -36,6 +36,15 @@ data:
   message: >
     {{ ["test 1", "doober", "i cant build a cat", "I design and build shrubberies", "someone has beaten a giant here"] | random }}
 
+```
+
+This #template lets you check an array of strings for specific text and returns another string if so, or if not:
+```jinja
+{% if ['doob', 'fubar', 'fancy'] | select('search', 'ar') | list | count == 0 %}
+ It's not there
+{% else %}
+ I found it!
+{% endif %}
 ```
 ## [[Zigbee2mqtt]]
 This app is responsible for finding the Zigbee devices on the network and exposing them to Home Assistant.
