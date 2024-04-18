@@ -82,8 +82,11 @@ target:
 ```
 
 
-## IMAP Sensor
+## [IMAP Integration](https://www.home-assistant.io/integrations/imap/)
 I've added an ==App Password== to my Google account for the IMAP sensor (to enable me to read my Gmail messages from within HA)
 The password is:
 `dmdw tcps nowi tffo`
 
+This integration adds a sensor to HA whose state is equal to the number of unread emails in your account.
+
+When a new email arrives, it can fire an automation that you can use to do other things, like notify yourself, set template sensors and such.  I'll attempt to use the latter option to try to gather my daily E-Trade Balance and my Chase Checking account balance as I used to do in my old iteration of HA
