@@ -80,3 +80,10 @@ data:
 target:
   entity_id: vacuum.s7_roborock
 ```
+
+
+## IMAP Sensor
+I've added an ==App Password== to my Google account for the IMAP sensor (to enable me to read my Gmail messages from within HA)
+The password is:
+`dmdw tcps nowi tffo`
+
