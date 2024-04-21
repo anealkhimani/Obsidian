@@ -3,7 +3,9 @@ tags:
   - finance
   - bill
 ---
-## Georgia Power
+## Georgia Power (Account 14478-41082)
+Logging into this website is a challenge, despite having a password manager.
+At any rate, this bill is auto-paid from a draft from our [[Chase]] joint checking account
 
 
 ## [AT&T](https://att.com) (Account# 138064828)
