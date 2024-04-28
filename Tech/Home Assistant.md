@@ -46,6 +46,17 @@ This #template lets you check an array of strings for specific text and returns 
  I found it!
 {% endif %}
 ```
+
+This is the default 'person' card when you first build a new HA.
+```yaml
+- show_state: true
+    show_name: false
+    camera_view: auto
+    type: picture-entity
+    entity: person.jody
+    aspect_ratio: '1'
+    image: /api/image/serve/2dfe228bbb59614208bffc513f1a17fd/512x512
+```
 ## [[Zigbee2mqtt]]
 This app is responsible for finding the Zigbee devices on the network and exposing them to Home Assistant.
 
