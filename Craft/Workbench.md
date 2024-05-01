@@ -3,4 +3,4 @@ I plan on following fairly closely the [Anarchists Workbench](https://books.anea
 
 My first requirement will be to purchase lots of 2x12 lumber.  For this, I'd like to visit an actual lumber yard (and not just an orange Big Box store).  He says that No. 1 yellow pine should be ideal.  I don't know if that can even be had at Big Box.
 
-It's slowly dawning on me that this project is going to be expensive.  I have no idea what the final cost will be but I'm estimating it around $500 -$800
+It's slowly dawning on me that this project is going to be expensive.  I have no idea what the final cost will be but I'm estimating it around $500 -$800 for lumber alone.  When you factor in the tools I'll need (lots and lots of clamps), glue, clamp/vice hardware, drill bits etc.  It could be well north of 1k. :(
