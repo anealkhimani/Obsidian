@@ -8,6 +8,7 @@ obsidianUIMode: preview
 - ## Due
 	```tasks
 	not done
+	tags do not include #purchase
 	sort by priority
 	short mode
 	```
@@ -17,5 +18,6 @@ obsidianUIMode: preview
 	```tasks
 	not done
 	tags include #purchase 
+	sort by urgency
 	short mode
 	```
