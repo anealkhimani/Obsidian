@@ -15,3 +15,5 @@ They're attached here too.  It looks like it'll be cheaper and much easier than 
 
 Now my only obstacle is purchasing plywood/MDF and actually making this happen.  From a cursory glance it appears that I'll need 4 sheets to pull it off (plus lots more glue and some long lag screws to hold the top to the base).  I'm excited and Imma get started right away (2024-05-07)
 
+After I'm done building it, I'll investigate adding a vice or 2 to it.
+
