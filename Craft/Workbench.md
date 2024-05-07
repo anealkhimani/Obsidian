@@ -13,4 +13,5 @@ Welp, it turns out that I decided on a different route than the Anarchist's Work
 
 They're attached here too.  It looks like it'll be cheaper and much easier than doing it with a laminated lumber top (and won't require 1000 clamps.).  Also, I don't know that I actually _need_ a full-on furniture making workbench, and it appears that this one will allow me to achieve what it is I'm working towards (making kumiko panels and maybe eventually selling them!)
 
-Now my only obstacle is purchasing plywood/MDF and actually making this happen.
+Now my only obstacle is purchasing plywood/MDF and actually making this happen.  From a cursory glance it appears that I'll need 4 sheets to pull it off (plus lots more glue and some long lag screws to hold the top to the base).  I'm excited and Imma get started right away (2024-05-07)
+
