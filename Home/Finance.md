@@ -48,6 +48,9 @@ I signed up for a Lowe's line of credit when I bought my Delta Table Saw.  Doing
 
 # Crypto Currency
 ## [Exodus](https://exodus.com)
+
+^43d370
+
 I'm currently using Exodus as a Software based Crypto Currency Wallet.  It's installed on my home machine and my work machine and phone.
 
 There's a 12 word 'secret phrase' associated with the app used as a recovery tool.  This phrase is printed on paper and held in both the safe at home and the File Cabinet under the `misc` folder.
