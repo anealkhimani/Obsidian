@@ -7,6 +7,9 @@ cssclass: dashboard
 ---
 # Banking
 ## [Chase Bank](https://chase.com)
+
+^4d337a
+
 Currently, I have a personal checking account with Chase Bank.  Liz and I share a Joint Checking account there as well.
 
 ## [Wells Fargo](https://wellsfargo.com)
@@ -52,6 +55,9 @@ There's a 12 word 'secret phrase' associated with the app used as a recovery too
 If you forget the password to the Exodus app (or want to install it on another machine) You'll need to use this 12 word phrase.  It is ***VERY IMPORTANT*** that you do not lose this phrase.  If so, you won't ***EVER*** be able to access those funds again (as of this writing, about $5800 USD)
 
 ## [Coinbase](https://coinbase.com)
+
+^c6695a
+
 This is a crypto-currency exchange where I usually purchase/sell crypto currencies.  I've linked my personal checking account here to facilitate ease of these processes.
 Purchases are automatically put into a cloud based Coinbase wallet.  I usually transfer these crypto assets to my Exodus wallet as soon as it's feasible (cost effective).
 
