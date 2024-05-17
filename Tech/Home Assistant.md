@@ -110,3 +110,12 @@ The password is:
 This integration adds a sensor to HA whose state is equal to the number of unread emails in your account.
 
 When a new email arrives, it can fire an automation that you can use to do other things, like notify yourself, set template sensors and such.  I'll attempt to use the latter option to try to gather my daily E-Trade Balance and my Chase Checking account balance as I used to do in my old iteration of HA
+
+
+## [Aarlo](https://github.com/twrecked/hass-aarlo/blob/master/README.md)
+Speaking of App Passwords, I created _another_ app password for my Gmail account to enable Home Assistant to login to my Arlo account.  I've done this before.  it's a pain in the ass.
+
+At any rate, the password for this integration is as follows:
+`shyx hbsz lghm xryj`
+
+I've updated the installed version of this Integration (version 0.8x).  This did away with all of the yaml configuration spread throughout my config files (binary_sensor, sensor, alarm, camera etc.).  Instead, it has created its own yaml file named aarlo.yaml in the root directory of HA.  This is where the magic happens.
