@@ -1,0 +1,2 @@
+Currently (2024-05-22) I hold an account at [[DigitalOcean]] where I pay for several 'droplets' (virtual servers).
+These droplets allow me to run applications and host websites, several of which are running currently.   I manage the DNS for these websites here as well.
