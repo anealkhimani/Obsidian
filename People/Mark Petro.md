@@ -4,12 +4,12 @@ tags:
 ---
 ## Notes:
 
-| #address      |     |
-| ------------- | --- |
-| #phone        |     |
-| #email        |     |
-| #birthday     |     |
-| #relationship |     |
+| #address      | 6646 Londerry Dr.<br>Morrow, GA 30260 |
+| ------------- | ------------------------------------- |
+| #phone        |                                       |
+| #email        |                                       |
+| #birthday     |                                       |
+| #relationship |                                       |
 
 ## Employment
 Company:
