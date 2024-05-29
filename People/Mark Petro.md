@@ -18,7 +18,7 @@ Email: mspetro@mindsprint.com
 
 
 ## History
-[[2024-05-29]] Had a brief call 
+[[2024-05-29]] Had a brief call discussing how to get a business started in GA.
 
 
 
