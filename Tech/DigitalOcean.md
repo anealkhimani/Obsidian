@@ -16,4 +16,3 @@ Then, where required, enter the 3 DigitalOcean Name Server addresses:
 - ns1.digitalocean.com
 - ns2.digitalocean.com
 - ns3.digitalocean.com
-- 
