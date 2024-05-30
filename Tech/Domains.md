@@ -12,5 +12,7 @@ Many have been registered at [GoDaddy](https://godaddy.com)
 One has been registered at [NameCheap](https://ap.www.namecheap.com)
 - fancybirdhouse.com
 - poshpartyrental.com
+- totaltentrental.com
+- totaltentrentals.com
 
-
+For any of these domains that actually resolve to IP addresses, I'm generally using [[DigitalOcean]] to manage the DNS.
