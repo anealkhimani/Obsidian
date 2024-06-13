@@ -28,18 +28,18 @@ Liz banks here.  She holds a personal Checking Account at Wells Fargo
 # Credit Cards
 ## [Capital One](https://capitalone.com)
 Aneal makes all his personal purchases using this card.  He earns cash-back on all purchases
-Each Thursday (Payday) I pay my balance on this card in full from my [[Finance#[Chase Bank](https //chase.com) | Chase Checking Account]]
+Each Thursday (Payday) I pay my balance on this card in full from my [[Home/Finance#[Chase Bank](https //chase.com)| Chase Checking Account]]
 
 ## [American Express](https://americanexpress.com)
 Annual membership fee is assessed each January in the amount of $150 USD.  This card balance is paid manually each time it is used (which is infrequent). 
 
 ## [Citi Double-Cash](https://citi.com)
-This card account is enrolled in Auto-Pay from our [[Finance#[Chase Bank](https //chase.com)|Joint Checking Acct.]]
+This card account is enrolled in Auto-Pay from our [[Home/Finance#[Chase Bank](https //chase.com)|Joint Checking Acct.]]
 I previously used it to pay my T-Mobile (previously Sprint) cell phone bill, but not sure what it's being used for now (if anything)
 - [x] Check my Citi Double Cash card account to see what it's doing  [due:: 2024-03-05]  [completion:: 2024-03-29]
 
 ## Chase Freedom Unlimited
-I'm an authorized user of this card that Liz signed us up for.  There's no account access for authorized users.  All of our joint purchases are made with this card (Bills, dinner out, one-off purchases, home stuff).  Liz manually pays this bill bi-weekly from the [[Finance#[Chase Bank](https //chase.com)|Joint Checking Account]]
+I'm an authorized user of this card that Liz signed us up for.  There's no account access for authorized users.  All of our joint purchases are made with this card (Bills, dinner out, one-off purchases, home stuff).  Liz manually pays this bill bi-weekly from the [[Home/Finance#[Chase Bank](https //chase.com)|Joint Checking Account]]
 
 ## [Lowe's](https://lowes.com)
 I signed up for a Lowe's line of credit when I bought my Delta Table Saw.  Doing so saved me 10% off my purchase at the time.  Also, I save 5% each time I use the card.  I pay this card balance in full manually after each use (either with my personal Checking Account or the Joint Account, based on who the purchase was for)
@@ -101,7 +101,7 @@ Video streaming service.  Liz pays for this from the Joint Account I assume.
 Another video streaming service.  Again, Liz handles this
 
 ### YouTube TV
-Yet another.  I cannot remember how we pay for this, but I believe it's automatically drafted from our [[Finance#Chase Freedom Unlimited|Chase Freedom]] card.
+Yet another.  I cannot remember how we pay for this, but I believe it's automatically drafted from our [[Home/Finance#Chase Freedom Unlimited|Chase Freedom]] card.
 
 ### Disney +
 Guess what this is for?!
