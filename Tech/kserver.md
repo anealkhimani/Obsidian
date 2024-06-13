@@ -41,8 +41,8 @@ etc.
 ## TODO
 ---
 ## [Hardening Checklist](https://www.pluralsight.com/blog/it-ops/linux-hardening-secure-server-checklist)
-- [ ] Enable a BIOS password on [[kserver]] [priority:: medium]  [created:: 2024-03-29]  [due:: 2024-04-01]
-- [ ] Disable Booting from removable media in BIOS  [priority:: medium]  [created:: 2024-03-29]  [due:: 2024-04-01]
+- [x] Enable a BIOS password on [[kserver]]  [priority:: medium]  [created:: 2024-03-29]  [due:: 2024-04-01]  [completion:: 2024-06-13]
+- [x] Disable Booting from removable media in BIOS  [priority:: medium]  [created:: 2024-03-29]  [due:: 2024-04-01]  [completion:: 2024-06-13]
 
 ## History
 ---
