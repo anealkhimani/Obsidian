@@ -82,7 +82,7 @@ I currently (`dv: this.file.ctime`) hold a Roth-IRA and a traditional 401(k) acc
 Currently (`dv: this.file.ctime`) I contribute $30/pay period towards my Healthcare Savings Account.  The balance there is roughly $7000 USD
 
 On 6/21/2023 I enrolled for an HSA Investment account which allows me to invest my HSA balance into securities.  I have not allocated these funds yet...
-- [ ] Invest my HSA funds into a Security, since I can...  [created:: 2024-03-05]  [due:: 2024-05-01]
+- [x] Invest my HSA funds into a Security, since I can...  [created:: 2024-03-05]  [due:: 2024-05-01]  [completion:: 2024-06-19]
 
 
 # Subscriptions
