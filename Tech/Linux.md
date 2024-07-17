@@ -38,18 +38,18 @@ You can inspect the various 'types' by [RTFM](https://www.dictionary.com/browse/
 ---
 You can gather processor information thusly:
 ```shell
-cat /proc/cpuinfo
+$> cat /proc/cpuinfo
 ```
 
 If you're only interested in the architecture of the CPU:
-`arch`
+`$> arch`
 
 ## Hard Drive
 ---
 #### View Hard Disks
 Some tools to view Hard disks installed on a system that I use are as follows:
 ```shell
-sudo parted -l
+$> sudo parted -l
 ```
 This one will show disks/partitions and will also provide the device and model data
 Below is the output for [[darthvader]]:
